@@ -12,3 +12,19 @@ Important notes:
 - The contents are intended for reference and verification purposes only.
 
 
+## Experiments Directory Overview
+
+This directory contains a systematic evaluation of Large Language Models (LLMs) for automated abstract screening in systematic literature reviews. The research investigates how well GPT-4o can replicate human screening decisions across different prompt configurations and output formats.
+
+
+### 📁 Directory Structure
+
+/notebooks/ - Contains the Jupyter notebooks executing the actual systematic LLM experiments with different prompting strategies and output formats for abstract screening.
+
+/results/ - Stores the master experiment summary CSV with performance metrics and individual result files for each experiment run.
+
+/data/ - Contains the two manually labeled datasets with ground truth classifications for systematic review screening.
+
+/prompts/ - Houses the inclusion/exclusion criteria definitions and few-shot example abstracts used across different experimental conditions.
+
+/preperation/ - Contains 5 preprocessing notebooks for data cleaning, criteria standardization, and example selection before running experiments.
