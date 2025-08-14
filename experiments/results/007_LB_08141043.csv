@@ -1,0 +1,1586 @@
+example_id,title,abstract,stage_2_true,stage_3_true,stage_2_binary,stage_3_binary,llm_score,llm_decision,stage2_llm_binary,stage3_llm_binary,llm_reasoning,experiment_id,dataset_source,system_prompt_id,user_prompt_id,model,temperature,timestamp
+1,{Online MEDIA within the public service realm?: Reasons to include online into the public service mission},"Public service media are no longer limited to radio and television as new media genres emerge. Among others, the online medium has supplemented radio, television and the press since the mid-1990s and has become a medium in its own right. Moreover, online media have become essential elements of media consumption patterns. Public service media compete not only with private radio and television broadcasters but also with the press. The question arises, whether such competition in the online field results in more diversity and higher output quality, serving the public interest better. In Europe, there are at least two different schools of thought. One line of argument accepts the public service expansion into online media and regards online media as a necessary and important field for public service activities. Another line of argument suggests limiting the public service remit strictly to radio and broadcasting and considers online media as an emerging market subject to competition among private companies only. Based on the results of a comparative empirical analysis of online media provided by public service broadcasters and print publishers in Switzerland, Germany and Austria (from 2006) this article shows that the achieved results in media output are disappointing. Only few online media live up to the expectations. The article finally argues that the extension of the public service remit to online media might enhance quality and diversity. Copyright {\textcopyright} 2008 Sage Publications.",True,True,1,1,4,4,1,1,"**Relevance Score:** 4
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates that the article is based on a ""comparative empirical analysis"" of online media provided by public service broadcasters and print publishers in Switzerland, Germany, and Austria. This satisfies the criterion for empirical research.
+
+- **IC2 (Media content or market analysis):** The abstract discusses the role of online media within the public service realm and its competition with private broadcasters and the press. This involves an analysis of media content and market dynamics, meeting this criterion.
+
+- **IC3 (Diversity analysis in media):** The abstract explicitly mentions the potential for online media to enhance ""quality and diversity"" in media output. This suggests a focus on diversity analysis, aligning with the inclusion criterion.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is published by Sage Publications, which is a reputable academic publisher, indicating that it is likely peer-reviewed.
+
+- **EC2 (No media content/market focus):** The focus is clearly on media content and market dynamics, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context, as the study examines the role and impact of online media within public service.
+
+- **EC4 (Fictional media content):** The abstract does not involve fictional media content, focusing instead on public service and online media.
+
+- **EC5 (No diversity focus):** The abstract does focus on diversity, as it discusses the potential for online media to enhance diversity in media output.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on media content, not on non-media aspects, so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a primary focus of the analysis, not a peripheral mention.
+
+- **EC8 (Superficial diversity reference):** The abstract suggests a substantive analysis of diversity in media output, not a superficial reference.
+
+Overall, the abstract meets the inclusion criteria well, particularly in terms of empirical research, media content analysis, and diversity focus. However, the specific details of the diversity analysis could be more explicit, which is why it is rated as a 4 rather than a 5.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:35:26.848061
+2,{Observing SERENDIPity in digital information environments},"We often interact with digital information environments to find useful information. But sometimes useful information finds us unexpectedly, propelling us in new and exciting directions. We might come across information serendipitously when looking for information on something else, or when we are not looking for anything in particular. In previous studies, people have self-reported that they come across information serendipitously. However, there has been limited success in directly observing people doing so. To see if we could have more success, we conducted naturalistic observations of 45 users interacting with different types of digital information environments. Without priming them about serendipity, we asked the users to conduct self-chosen naturalistic information tasks, which varied from broad tasks such as browsing online news to narrow tasks such as finding a particular product to buy. We noted several examples where users either 1) stated they were looking for information on a particular topic or product and unexpectedly found useful/potentially useful information about something else or 2) unexpectedly found useful/potentially useful information when not looking for anything in particular. Our findings suggest that, with a carefully-considered approach, serendipity-related information interaction behaviour can be directly observed. Direct observation allows designers of digital information environments to better understand this behaviour and use this understanding to reason about ways of designing new or improving existing support for serendipity. Copyright {\textcopyright} 2015 by Association for Information Science and Technology",True,True,1,1,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract describes an empirical study involving naturalistic observations of users interacting with digital information environments. This meets the criterion for empirical research.
+
+- **IC2 (Media content or market analysis):** The study involves digital information environments, which could include media content like online news. However, the abstract does not specify a focus on media content or market analysis, making it unclear if this criterion is fully met.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions ""serendipity,"" which is a key term related to diversity analysis in media. However, the focus is on serendipity in information interaction rather than diversity in media content or markets. The connection to media diversity is not explicit or central.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a publication by the Association for Information Science and Technology, suggesting it is peer-reviewed.
+
+- **EC2 (No media content/market focus):** The abstract does not clearly focus on media content or markets, as it discusses digital information environments more broadly.
+
+- **EC3 (Media as context only):** The abstract does not use media merely as context; it is central to the study of serendipity in digital environments.
+
+- **EC4 (Fictional media content):** There is no mention of fictional media content.
+
+- **EC5 (No diversity focus):** The study does not focus on diversity in media; it focuses on serendipity in information interaction.
+
+- **EC6 (Non-media diversity focus):** The abstract does not focus on media diversity; it focuses on user interaction with information environments.
+
+- **EC7 (Peripheral diversity mention):** The mention of serendipity is central to the study, but it is not directly tied to media diversity.
+
+- **EC8 (Superficial diversity reference):** The study provides a detailed examination of serendipity but does not analyze media diversity.
+
+Overall, while the study is empirical and involves digital environments, it lacks a clear focus on media content or market analysis and does not directly address media diversity. Therefore, it is minimally relevant to the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:35:38.677721
+3,{Actor DIVERSity and viewpoint DIVERSity: Two of a kind?},"News content diversity is generally considered to be an essential
+precondition for the promotion of social pluralism. However, how
+diversity of news content should be conceptualized and measured is less
+clear. We use a content analysis of newspaper articles about immigration
+(2013-14) in Belgium (Flanders) to measure the diversity of actors and
+viewpoints in the news, and to study the link between those two
+subdimensions of content diversity. We find that the representation of a
+plurality of active actors in a news article seems to go hand in hand
+with a more diverse range of viewpoints. The findings show that there
+are no significant differences in the level of actor and viewpoint
+diversity between quality and popular newspapers. However, the length of
+the article has a positive effect on providing more diversity. Moreover,
+our results indicate that allowing for individual immigrants to talk in
+the reporting is fundamental to promoting a more positive representation
+of immigration in the news.",True,True,1,1,5,5,1,1,"**Relevance Score:** 5
+
+**Reasoning:** 
+
+The abstract is highly relevant to the systematic literature review on media diversity in political communication, as it meets all the inclusion criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract describes an empirical study using content analysis of newspaper articles, which is a clear indication of empirical research.
+
+- **IC2 (Media content or market analysis):** The study focuses on newspaper articles, which are a form of media content. This aligns with the criteria of analyzing media content.
+
+- **IC3 (Diversity analysis in media):** The abstract explicitly discusses the diversity of actors and viewpoints in news content, which directly relates to media diversity. It uses terms like ""diversity of actors"" and ""viewpoint diversity,"" which are key aspects of diversity analysis in media.
+
+The abstract does not meet any of the exclusion criteria:
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the study is non-peer-reviewed.
+
+- **EC2 (No media content/market focus):** The focus is clearly on media content (newspaper articles).
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context.
+
+- **EC4 (Fictional media content):** The study is about news articles, not fictional content.
+
+- **EC5 (No diversity focus):** The primary focus is on diversity, specifically actor and viewpoint diversity.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on media content, specifically news articles.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a primary focus, not a peripheral mention.
+
+- **EC8 (Superficial diversity reference):** The abstract provides a detailed analysis of diversity, not just a superficial reference.
+
+Overall, the abstract strongly aligns with the inclusion criteria and does not meet any exclusion criteria, making it highly relevant for inclusion in the review.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:35:46.552361
+4,"{FILTER BUBBLEs, ECHO CHAMBERs, and online NEWS consumption}","Online publishing, social networks, and web search have dramatically
+lowered the costs of producing, distributing, and discovering news
+articles. Some scholars argue that such technological changes increase
+exposure to diverse perspectives, while others worry that they increase
+ideological segregation. We address the issue by examining web-browsing
+histories for 50,000 US-located users who regularly read online news. We
+find that social networks and search engines are associated with an
+increase in the mean ideological distance between individuals. However,
+somewhat counterintuitively, these same channels also are associated
+with an increase in an individual's exposure to material from his or her
+less preferred side of the political spectrum. Finally, the vast
+majority of online news consumption is accounted for by individuals
+simply visiting the home pages of their favorite, typically mainstream,
+news outlets, tempering the consequences-both positive and negative-of
+recent technological changes. We thus uncover evidence for both sides of
+the debate, while also finding that the magnitude of the effects is
+relatively modest.",True,True,1,1,5,5,1,1,"**Relevance Score:** 5
+
+**Reasoning:** 
+
+The abstract is highly relevant to the systematic literature review on media diversity in political communication, as it meets all the inclusion criteria:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical, as it examines web-browsing histories for 50,000 US-located users who regularly read online news. This indicates a data-driven approach to understanding online news consumption patterns.
+
+- **IC2 (Media content or market analysis):** The focus is on online news consumption, which falls under media content analysis. The study specifically looks at how technological changes in online publishing, social networks, and web search affect news consumption.
+
+- **IC3 (Diversity analysis in media):** The abstract explicitly mentions key terms related to diversity analysis, such as ""filter bubbles"" and ""echo chambers."" It examines ideological segregation and exposure to diverse perspectives, which are central to understanding media diversity.
+
+The abstract does not meet any of the exclusion criteria:
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed.
+  
+- **EC2 (No media content/market focus):** The focus is clearly on media content, specifically online news.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context.
+
+- **EC4 (Fictional media content):** The study focuses on non-fictional media content, specifically news articles.
+
+- **EC5 (No diversity focus):** The study has a clear focus on diversity, examining ideological segregation and exposure to diverse perspectives.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on media, specifically the diversity of perspectives in online news consumption.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a primary focus of the study, not a peripheral mention.
+
+- **EC8 (Superficial diversity reference):** The study provides an analysis of diversity-related concepts like filter bubbles and echo chambers, rather than just mentioning them superficially.
+
+Overall, the abstract strongly aligns with the inclusion criteria and does not trigger any exclusion criteria, making it highly relevant for inclusion in the review.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:35:57.344991
+5,{Democracy and the press: A comparative analysis of PLURALism in the international print MEDIA},"The relationship between democracy and press pluralism is assessed in seven countries: China, Colombia, Egypt, Germany, India, Lithuania, and Russia. The term ""pluralism"" is defined as the extent to which diverse and competing views appear in the content of the mainstream press on a given news topic. Content analysis of 2,172 articles from the 10 largest newspapers in each country, published in the first months after the September 11, 2001 terrorist attacks, is used to evaluate the level of press pluralism. The main indicator of democracy is based on data from the Freedom House organization, though other democracy indexes are considered. Previous studies have offered conflicting views on the relationship between democracy and press pluralism. Although this study finds mixed results, the general tendency, which is based on 10 major news issues surrounding the events of 9/11, supports the perspective that democracy is not always positively associated with press pluralism. Much of the debate over 9/11 in countries ranked as highly democratic was less pluralistic than in countries with weaker democratic institutions. {\textcopyright} 2007 Elsevier Inc. All rights reserved.",True,True,1,1,5,5,1,1,"**Relevance Score:** 5
+
+**Reasoning:** 
+
+The abstract meets all the inclusion criteria for the systematic literature review on media diversity in political communication:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical, as it involves content analysis of 2,172 articles from newspapers across seven countries. This clearly indicates empirical research.
+
+- **IC2 (Media content or market analysis):** The focus is on the content of the mainstream press, specifically analyzing articles from the largest newspapers in each country. This aligns with the requirement for media content analysis.
+
+- **IC3 (Diversity analysis in media):** The study explicitly examines ""press pluralism,"" defined as the diversity of views in the press, which directly relates to media diversity. The use of the term ""pluralism"" in this context is consistent with the inclusion criteria.
+
+The abstract does not meet any of the exclusion criteria:
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a publication by Elsevier, a reputable academic publisher, indicating it is likely peer-reviewed.
+
+- **EC2 (No media content/market focus):** The focus is clearly on media content, specifically newspaper articles.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a contextual element.
+
+- **EC4 (Fictional media content):** The study focuses on non-fictional media content, specifically news articles.
+
+- **EC5 (No diversity focus):** The primary focus is on press pluralism, a form of diversity analysis.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on media content, specifically the diversity of views in the press.
+
+- **EC7 (Peripheral diversity mention):** Diversity (pluralism) is the central theme of the study.
+
+- **EC8 (Superficial diversity reference):** The study provides an in-depth analysis of press pluralism, not just a superficial mention.
+
+Overall, the abstract strongly aligns with the inclusion criteria and does not trigger any exclusion criteria, making it highly relevant for the review.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:06.712275
+6,{Sports organizations in a new wave of MEDIAtization},"This article explores the transforming effects of digital media in
+sports organizations. The approach to this is an analytical focus on a
+wide range of sports, which are examined from an institutional and
+organizational approach to mediatization theory. On the basis of an
+empirical study of governing sports organizations (national sports
+federations), it is demonstrated that digital media are a major concern
+across organizations and that a new wave of mediatization is taking
+place in sports. Still, many organizations struggle with this and
+currently find themselves in a state of flux, trying to involve
+employees, volunteers, and external partners with communication
+competencies in their activities in various ways, on many levels, and
+for many varying purposes. Consequently, one of the significant effects
+of digital media is a dispersion of communication involving more people
+and concurrent increase in internal complexity in many organizations.
+Mediatization is therefore a process that is very much in operation at
+many levels and at various speeds, but it also takes organizations in
+diverse directions. Using Thornton and Ocasio's interinstitutional
+approach and concept of institutional logics, it is argued and
+demonstrated that this is because these sports organizations have other
+relevant and powerful institutional partners or organizations that need
+to be considered in the process as well.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates an empirical study of sports organizations, which meets the criterion for empirical research. However, this alone is not sufficient for inclusion.
+  
+- **IC2 (Media content or market analysis):** The focus is on digital media's impact on sports organizations, not on media content or market analysis. The study does not analyze media content like news articles or non-fictional TV shows, which is required for inclusion.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract does not discuss any of the key terms related to diversity such as filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not specify the publication type, but this criterion is not directly applicable based on the provided information.
+
+- **EC2 (No media content/market focus):** The abstract focuses on the mediatization of sports organizations rather than media content or market analysis, which does not meet the inclusion criteria.
+
+- **EC3 (Media as context only):** The abstract uses media as a context for analyzing sports organizations, not as the central focus of analysis.
+
+- **EC4 (Fictional media content):** Not applicable, as the study does not involve fictional media content.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity in media, which is a critical inclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in media content or markets.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, even peripherally.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract does not meet the core inclusion criteria related to media content/market analysis and diversity analysis in media, leading to a relevance score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:15.919857
+7,{For everything a season? A month-by-month analysis of SOCIAL NETWORK resources in later life},"It is widely acknowledged that informal social ties provide older persons with many resources that serve to protect and improve their levels of health and well-being. Most studies on this topic, however, ignore the month or season of the year during which data was accumulated. This study proposes two hypotheses to explain seniors' social network resources over the calendar year: the “fluctuation hypothesis”, which proposes that seasonal variation, in the form of weather fluctuations, institutional calendars, and holidays, might influence the social lives and resources of older persons, and the “network stability” perspective, which, informed by tenets of convoy theory and socioemotional selectivity theory, emphasizes the increasing importance of close network ties as individuals age and the stability of these ties. Using two waves (2005–2006 and 2010–2011) of the National Social Life, Health, and Aging Project (NSHAP), a nationally representative sample of community-dwelling older adults aged 57–85 in the United States, we examine a diverse set of nine social connectedness outcomes. Results, overall, support the network stability perspective, as the only social connectedness outcome found to significantly vary by month of year was average closeness with network members. We conclude by suggesting some methodological considerations for survey research and by noting how these findings complement the growing literature on inter-year fluctuation in social networks and social support. Changes in older adults' networks, while frequently observable over the course of years, do not seem to be seasonally patterned. {\textcopyright} 2017 Elsevier Inc.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical, as it uses data from the National Social Life, Health, and Aging Project. However, the focus is not on media or political communication, but rather on social network resources among older adults.
+
+- **IC2 (Media content or market analysis):** The abstract does not involve any analysis of media content or media markets. It focuses on social networks and resources in later life, which is unrelated to media content or market analysis.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The study examines social connectedness outcomes, which do not pertain to media diversity.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The study does not focus on media content or markets. It is centered on social networks and resources among older adults.
+
+- **EC3 (Media as context only):** Media is not even mentioned as a context in this study.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in the context of media. The study is about social network resources and their seasonal variation.
+
+Overall, the abstract is completely outside the scope of the systematic literature review on media diversity in political communication, leading to a relevance score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:22.885498
+8,"{Here and now: Indigenous canadian perspectives and new MEDIA in works by Ruben Komangapik, Kent Monkman and Adrian Duke}","Examining the use of new media in works by Ruben Komangapik, Kent Monkman and the Wikiup Indigenous Knowledge Network reveals the diverse ways in which technologies are used to disrupt linear time and Western visions of history. New media works challenge those misleading stories that have been told about Canada's indigenous peoples and assert indigenous presence in both the digital and physical landscape. These artists employ QR codes, video and augmented reality to push artistic boundaries and create representations of the past and present. {\textcopyright} 2018 Brittany Myburgh.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract does not indicate empirical research or theoretical framework development. It describes artistic works and their use of new media, which does not align with the focus on empirical or theoretical research in political communication.
+
+- **IC2 (Media content or market analysis):** The abstract discusses the use of new media in artistic works, which does not constitute an analysis of media content or media markets as required. The focus is on artistic expression rather than media analysis.
+
+- **IC3 (Diversity analysis in media):** While the abstract mentions ""diverse ways"" technologies are used, it does not focus on diversity analysis in media as defined by the inclusion criteria. There is no mention of key terms like filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information on whether the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract focuses on artistic works and their use of new media, not on media content or market analysis.
+
+- **EC3 (Media as context only):** The abstract uses media as a tool for artistic expression rather than as the central focus of analysis.
+
+- **EC4 (Fictional media content):** The abstract does not focus on fictional media content, but it does focus on artistic works, which are not aligned with the criteria for media content analysis.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity in media as defined by the criteria. The mention of ""diverse ways"" is not sufficient for inclusion.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is related to artistic expression, not media diversity.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not central to the analysis of media content or markets.
+
+- **EC8 (Superficial diversity reference):** The abstract does not provide a substantial analysis of diversity in media.
+
+Overall, the abstract does not meet the inclusion criteria for a systematic literature review on media diversity in political communication, as it focuses on artistic expression rather than media content or market analysis.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:32.962372
+9,{Resumption and polemic DIVERSion on TWITTER [Reprises et d{\'{e}}tournements pol{\'{e}}miques sur TWITTER]},,False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** The abstract provided is ""nan,"" which indicates that there is no content available to evaluate. Without an abstract, it is impossible to determine if the study meets any of the inclusion criteria (IC1, IC2, IC3) or if it falls under any of the exclusion criteria (EC1-EC8). Specifically:
+
+- **IC1 (Empirical or theoretical research):** There is no information to assess whether the study is empirical or theoretical.
+- **IC2 (Media content or market analysis):** There is no indication of any media content or market analysis.
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis or related key terms.
+
+Additionally, without an abstract, it is impossible to determine if the study is non-peer-reviewed (EC1), lacks a media content/market focus (EC2), uses media as context only (EC3), focuses on fictional media content (EC4), lacks a diversity focus (EC5), focuses on non-media diversity (EC6), mentions diversity peripherally (EC7), or references diversity superficially (EC8).
+
+Given the complete lack of information, the abstract is rated as ""Not Relevant"" with a score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:40.531902
+10,{Mobile communication in Asia: Issues and imperatives},"This article introduces and provides the context for the themed section
+on mobile communication in Asia. It suggests that much work remains to
+be done in adequately grasping the new mobile, mediated face of
+communication in the very diverse Asian region. It also suggests that
+such a new direction in research needs to go hand in hand with
+rethinking the conceptual and theoretical bases of mobile, and indeed,
+Internet and computer-mediated communication.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests a theoretical direction by mentioning the need to rethink conceptual and theoretical bases, but it does not indicate that the article itself provides empirical research or develops a theoretical framework. Therefore, it does not clearly meet IC1.
+
+- **IC2 (Media content or market analysis):** The abstract focuses on mobile communication in Asia, which could potentially involve media content or market analysis. However, it does not explicitly state that it analyzes media content or markets, thus failing to meet IC2.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions the ""very diverse Asian region,"" but this refers to geographic and cultural diversity rather than media diversity. There is no indication of a focus on diversity analysis in media, failing to meet IC3.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information about the peer-review status, but this is not a primary exclusion criterion in this context.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or market analysis, as it primarily discusses mobile communication as a context, thus meeting EC2.
+
+- **EC3 (Media as context only):** The abstract uses mobile communication as a context for discussing broader communication issues, aligning with EC3.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss fictional media content.
+
+- **EC5 (No diversity focus):** The mention of diversity is not related to media diversity, aligning with EC5.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is geographic/cultural, not media-related, aligning with EC6.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is peripheral and not central to the analysis, aligning with EC7.
+
+- **EC8 (Superficial diversity reference):** The reference to diversity is superficial and not analyzed, aligning with EC8.
+
+Overall, the abstract does not meet the inclusion criteria and aligns with several exclusion criteria, particularly EC2, EC3, EC5, EC6, EC7, and EC8. Therefore, it is rated as ""Not Relevant"" with a score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:50.368149
+11,{Communication and Exchange of Specialized Health-Related Support Among People With Experiential Similarity on FACEBOOK},"Social support is an important factor that shapes how people cope with illness, and health-related communication among peers managing the same illness (network ties with experiential similarity) offers specialized information, resources, and emotional support. Facebook has become a ubiquitous part of many Americans' lives, and may offer a way for patients and caregivers experiencing a similar illness to exchange specialized health-related support. However, little is known about the content of communication among people who have coped with the same illness on personal Facebook pages. We conducted a content analysis of 12 months of data from 18 publicly available Facebook pages hosted by parents of children with acute lymphoblastic leukemia, focusing on communication between users who self-identified as parents of pediatric cancer patients. Support exchanges between users with experiential similarity contained highly specialized health-related information, including information about health services use, symptom recognition, compliance, medication use, treatment protocols, and medical procedures. Parents also exchanged tailored emotional support through comparison, empathy, encouragement, and hope. Building upon previous research documenting that social media use can widen and diversify support networks, our findings show that cancer caregivers access specialized health-related informational and emotional support through communication with others who have experienced the same illness on personal Facebook pages. These findings have implications for health communication practice and offer evidence to tailor M-Health interventions that leverage existing social media platforms to enhance peer support for patients and caregivers. {\textcopyright} 2017 Taylor {\&} Francis.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical as it involves a content analysis of Facebook pages. However, this alone is not sufficient for inclusion without meeting other criteria.
+
+- **IC2 (Media content or market analysis):** The focus is on Facebook as a platform for health-related support exchange, not on media content or market analysis in the context of political communication. The study does not analyze news media, non-fictional TV shows, or news articles.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The study focuses on health-related support exchanges, not on diversity aspects such as filter bubbles, echo chambers, or media market diversity.
+
+The abstract meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The study uses Facebook as a context for health communication, not for media content or market analysis.
+
+- **EC3 (Media as context only):** Facebook is used as a context for health-related communication, not as a central focus for media analysis.
+
+- **EC5 (No diversity focus):** The study does not focus on diversity in media; it focuses on health-related support exchanges.
+
+Overall, the abstract is not relevant to the systematic literature review on media diversity in political communication, as it does not address media content or market analysis, nor does it focus on diversity within media.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:36:56.021283
+12,"{Right to be forgotten: How national identity, political orientation, and capitalist ideology structured a trans-atlantic debate on information access and control}","This study examines U.S. and British media coverage of the right to be
+forgotten in the light of their legal approaches and public attitudes
+toward privacy. Algorithmic and qualitative textual analysis techniques
+are combined to uncover the ideologies and interests that structure the
+discourse and shape its outcome. The analysis reveals that U.S. media,
+irrespective of their perceived liberal or conservative orientation,
+treat users' online privacy as subservient to the business interests of
+technology companiesin line with the country's lax legal approach. The
+coverage is more diverse in Britain, where the legal concept of privacy
+is also more stringent.",True,False,1,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through the use of algorithmic and qualitative textual analysis techniques. This meets the inclusion criterion for empirical research.
+
+- **IC2 (Media content or market analysis):** The study examines media coverage, which aligns with the focus on media content analysis. This criterion is met.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions that the coverage is more diverse in Britain, suggesting some level of diversity analysis. However, it does not explicitly focus on diversity-related key terms such as filter bubbles, echo chambers, or newsroom diversity. The diversity focus is not strong or central, making this criterion only partially met.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The study focuses on media coverage, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, so this exclusion criterion does not apply.
+
+- **EC4 (Fictional media content):** The study does not focus on fictional media content, so this exclusion criterion does not apply.
+
+- **EC5 (No diversity focus):** While there is a mention of diversity in coverage, the focus on diversity is not strong or central, which partially aligns with this exclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is related to media coverage, so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity in coverage is not the primary focus, which aligns with this exclusion criterion.
+
+- **EC8 (Superficial diversity reference):** The diversity reference is somewhat superficial as it is not deeply analyzed or central to the study's findings.
+
+Overall, the abstract shows some relevance to the review's focus on media diversity in political communication, but the diversity analysis is not central or deeply explored. More information on the depth of diversity analysis would be needed for a higher relevance score.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:03.892038
+13,{Towards DIVERSity in young adult fiction: Australian YA authors' publishing experiences and its implications for YA librarians and readers' advisory services},"Based on a study of Australian young adult (YA) fiction authors, this paper argues that it is necessary for publishers, booksellers, and YA librarians to pay attention to the global movement towards diversity: diversity within their own organisations, diversity among authors they publish, stock, or collect, and representations of diversity within YA fiction. The mainstream attention to diversity has particularly focused on media for young people, with advocates stating that children and teenagers from traditionally marginalised communities deserve to see their own experiences reflected and validated in the media they consume. This paper looks at diversity in writing and traditional publishing through interviews with Australian YA authors (conducted in 2016) from traditionally marginalised or unacknowledged communities, especially as it relates to their transition from reader to writer, and their experience of the publishing journey. A critical discourse analysis of the interviews point to a need for more diversity representations in YA fiction, and also the need for a change in industry practices to enable this, including publishing, bookselling, and library practices. Abbreviations: YA - Young Adult Fiction WNDB - We Need Diverse Books CDA - Critical Discourse Analysis. {\textcopyright} 2018, {\textcopyright} 2018 Australian Library {\&} Information Association.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** While the abstract mentions a study involving interviews and critical discourse analysis, it does not focus on media diversity in political communication, which is the central theme of the systematic review.
+
+- **IC2 (Media content or market analysis):** The focus is on young adult fiction, which falls under fictional media content. The inclusion criteria specifically exclude fictional TV shows, movies, and by extension, fictional books.
+
+- **IC3 (Diversity analysis in media):** Although the abstract discusses diversity, it is in the context of young adult fiction authors and publishing practices, not media diversity in political communication. The diversity focus here is on representation in fiction, not on media content or market diversity relevant to political communication.
+
+The abstract is excluded based on the following exclusion criteria:
+
+- **EC4 (Fictional media content):** The study focuses on young adult fiction, which is explicitly excluded as it pertains to fictional content.
+
+- **EC5 (No diversity focus):** While there is a focus on diversity, it is not related to media diversity in political communication, which is the focus of the review.
+
+- **EC6 (Non-media diversity focus):** The diversity discussed is related to authors and publishing practices in fiction, not media diversity.
+
+Overall, the abstract is not relevant to the systematic literature review on media diversity in political communication, as it does not align with the inclusion criteria and falls under several exclusion criteria.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:10.863139
+14,{Reinventing the heights: the origins of rockclimbing culture in Australia},"Australian rockclimbing culture and climbers have been imagined in a
+particular way with the late nineteenth- and early twentieth-century
+press playing a key role. Australian landscapes, including mountains,
+were incorporated into Indigenous cosmology for millennia before
+Aboriginal people discovered Europeans. But with the colonial invasion,
+the very nature of the landscape in the new colony meant that climbing
+culture was bound to take on a different persona from its European
+antecedent and undergo a rethinking or reinvention process. Figuring
+strongly in this discursive reconstruction was the particular geography
+of one region in Australia - southeast Queensland - with its diverse
+collection of volcanic peaks within range of a major population centre,
+along with a climate that encouraged the emergence of a set of
+complementary leisure activities. This article explores the emergence of
+rockclimbing culture in Australia from a range of often competing and
+contradictory discourses - Aboriginal cosmology, a unique landscape, the
+influence of the European idea of climbing and charismatic, visionary
+individuals. From the turn of the twentieth century, the role of local
+newspapers and magazines was a crucial element in this imagining process
+creating briefly a space for female climbers that has only recently been
+reclaimed. From the late 1880s, and particularly during the 1920s and
+1930s, press reports of climbing and associated activities offered new
+ways of conceptualizing mountains and their place in shaping Australian
+culture.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract titled ""Reinventing the heights: the origins of rockclimbing culture in Australia"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract does not indicate empirical research or theoretical framework development related to media diversity. It focuses on the cultural history of rock climbing in Australia.
+
+- **IC2 (Media content or market analysis):** While the abstract mentions the role of local newspapers and magazines, the focus is not on media content or market analysis. The media is used as a context to discuss the cultural development of rock climbing, not as the primary subject of analysis.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract does not discuss concepts like filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information on whether the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract uses media as a context to discuss rock climbing culture, not as the central focus of analysis.
+
+- **EC3 (Media as context only):** The media is mentioned as part of the cultural narrative, not as the main subject of study.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not focus on fictional content.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity in media; it discusses cultural history and the role of media in shaping perceptions of rock climbing.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in media content or markets.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity in the abstract.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity concepts in the abstract.
+
+Overall, the abstract is not relevant to the systematic literature review on media diversity in political communication, as it does not meet any of the inclusion criteria and is primarily focused on cultural history rather than media analysis.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:21.463140
+15,{SCENT: Scalable Compressed Monitoring of Evolving Multirelational SOCIAL NETWORKs},"We propose SCENT, an innovative, scalable spectral analysis framework
+for internet scale monitoring of multirelational social media data,
+encoded in the form of tensor streams. In particular, a significant
+challenge is to detect key changes in the social media data, which could
+reflect important events in the real world, sufficiently quickly. Social
+media data have three challenging characteristics. First, data sizes are
+enormous; recent technological advances allow hundreds of millions of
+users to create and share content within online social networks. Second,
+social data are often multifaceted (i.e., have many dimensions of
+potential interest, from the textual content to user metadata). Finally,
+the data is dynamic; structural changes can occur at multiple time
+scales and be localized to a subset of users. Consequently, a framework
+for extracting useful information from social media data needs to scale
+with data volume, and also with the number and diversity of the facets
+of the data. In SCENT, we focus on the computational cost of structural
+change detection in tensor streams. We extend compressed sensing (CS) to
+tensor data. We show that, through the use of randomized tensor
+ensembles, SCENT is able to encode the observed tensor streams in the
+form of compact descriptors. We show that the descriptors allow very
+fast detection of significant spectral changes in the tensor stream,
+which also reduce data collection, storage, and processing costs.
+Experiments over synthetic and real data show that SCENT is faster
+(17.7x- 159x for change detection) and more accurate (above 0.9 F-score)
+than baseline methods.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract for the paper titled ""{SCENT: Scalable Compressed Monitoring of Evolving Multirelational SOCIAL NETWORKs}"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract describes a framework (SCENT) for monitoring social media data, which suggests empirical research. However, it does not explicitly mention a focus on media diversity or political communication, which is crucial for inclusion.
+
+- **IC2 (Media content or market analysis):** The abstract focuses on social media data, which could potentially be relevant. However, it does not specify any analysis of media content or market in terms of diversity, which is necessary for inclusion.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in the abstract. Key terms related to diversity such as filter bubbles, echo chambers, pluralism, etc., are absent. The focus is on structural change detection in data streams, not on diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information about the peer-review status, but this is not a primary exclusion criterion here.
+
+- **EC2 (No media content/market focus):** The abstract does focus on social media data, but it does not analyze media content or market in terms of diversity.
+
+- **EC3 (Media as context only):** The abstract uses social media data as the primary focus, but it does not analyze it in the context of media diversity.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not deal with fictional content.
+
+- **EC5 (No diversity focus):** The abstract lacks any focus on diversity, which is a critical exclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in any form, media or otherwise.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract does not align with the core focus of the systematic review, which is media diversity in political communication. It primarily discusses a technical framework for monitoring social media data without addressing diversity aspects. Therefore, it is rated as ""Not Relevant"" with a score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:31.301765
+16,{Understanding NEWS sharing in SOCIAL MEDIA: An explanation from the diffusion of innovations theory},"Purpose: The purpose of this paper is to draw from the diffusion of innovations theory to explore multi-levels of influences (i.e. individuals, networks, news attributes) on news sharing in social media. Design/methodology/approach: A survey was designed and administered to 309 respondents. Structural equation modelling analysis was conducted to examine the three levels of influential factors. These included self-perceptions of opinion leadership and seeking at the individual level, perceived tie strength and homophily at the network level, and finally, perceived news credibility and news preference at the news attribute level. Findings: The results revealed that the influences of self-perceptions of opinion leadership, perceived tie strength in online networks and perceived preference of online news had significant effects on users' news sharing intention in social media. However, self-perceptions of opinion seeking, homophily, and perceived news credibility were not significant. Originality/value: This is one of the first studies on news sharing in social media that focus on diverse levels of influential factors. In particular, the research suggests the viability of the diffusion of innovations theory to explain this pervasive global phenomenon. Further, the influential factors identified may help to stimulate active participation in social media platforms and ultimately enhance the sustainability of these platforms. {\textcopyright} Emerald Group Publishing Limited.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through the use of a survey and structural equation modeling analysis, which aligns with IC1.
+
+- **IC2 (Media content or market analysis):** The focus is on news sharing in social media, which involves media content. However, the primary focus is on the diffusion of innovations theory rather than a direct analysis of media content or market, which weakly aligns with IC2.
+
+- **IC3 (Diversity analysis in media):** The abstract does not mention any diversity analysis in media. There are no key terms related to diversity such as filter bubbles, echo chambers, or media market diversity. This criterion is not met.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate that it is non-peer-reviewed, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The study does focus on media content (news sharing in social media), so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** The media is central to the analysis as it focuses on news sharing in social media, so this exclusion criterion does not apply.
+
+- **EC4 (Fictional media content):** The study does not focus on fictional media content, so this exclusion criterion does not apply.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in the abstract, which is a significant gap given the review's focus on media diversity.
+
+- **EC6 (Non-media diversity focus):** There is no mention of diversity in any context, so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise, in the abstract.
+
+- **EC8 (Superficial diversity reference):** There is no superficial reference to diversity in the abstract.
+
+Overall, while the study is empirical and involves media content, it lacks any focus on diversity analysis in media, which is a critical component of the inclusion criteria. Therefore, it is minimally relevant to the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:44.372552
+17,{Reviewing person's value of privacy of online SOCIAL NETWORKing},"Purpose - The paper aims at a multi-faceted review of scholarly work,
+analyzing the current state of empirical studies dealing with privacy
+and online social networking (OSN) as well as the theoretical
+``puzzle{\{}''{\}} of privacy approaches related to OSN usage from the
+background of diverse disciplines. Drawing on a more pragmatic and
+practical level, aspects of privacy management are presented as well.
+Design/methodology/approach - Based on individual privacy concerns and
+also publicly communicated threats, information privacy has become an
+important topic of public and scholarly discussion. Beside diverse
+positive aspects of OSN sites for users, their information is for
+example also being used for data mining and profiling, pre-recruiting
+information as well as economic espionage. This review highlights
+information privacy mainly from an individual point-of-view, focusing on
+the usage of OSN sites (OSNs).
+Findings - This analysis of scholarly work shows the following findings:
+first, adults seem to be more concerned about potential privacy threats
+than younger users; second, policy makers should be alarmed by a large
+part of users who underestimate risks of their information privacy on
+OSNs; third, in the case of using OSNs and its services, traditional
+one-dimensional privacy approaches fall short. Hence, findings of this
+paper further highlight the necessity to focus on multidimensional and
+multidisciplinary frameworks of privacy, for example considering a
+so-called ``privacy calculus paradigm{\{}''{\}} and rethinking ``fair
+information practices{\{}''{\}} from a more and more ubiquitous environment of
+OSNs.
+Originality/value - The results of the work presented in this paper give
+new opportunities for research as well as suggestions for privacy
+management issues for OSN providers and users.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates a review of scholarly work rather than presenting new empirical or theoretical research. It is primarily a literature review, which is excluded under EC1.
+
+- **IC2 (Media content or market analysis):** The focus of the abstract is on privacy concerns related to online social networking (OSN), not on media content or market analysis. There is no indication of analysis related to news media, non-fictional TV shows, or news articles.
+
+- **IC3 (Diversity analysis in media):** The abstract does not address diversity analysis in media. It focuses on privacy issues rather than diversity-related topics such as filter bubbles, echo chambers, or media market diversity.
+
+Additionally, the abstract is excluded based on the following exclusion criteria:
+
+- **EC1 (Non-peer-reviewed content):** The abstract describes a review of scholarly work, which is typically not considered original empirical or theoretical research.
+
+- **EC2 (No media content/market focus):** The abstract's focus is on privacy in online social networking, not on media content or market analysis.
+
+- **EC5 (No diversity focus):** There is no mention of diversity in the context of media; the focus is on privacy.
+
+Overall, the abstract does not align with the inclusion criteria and is clearly outside the scope of the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:37:52.891950
+18,{The 'urban age' in question},"Foreboding declarations about contemporary urban trends pervade early twenty-first century academic, political and journalistic discourse. Among the most widely recited is the claim that we now live in an 'urban age' because, for the first time in human history, more than half the world's population today purportedly lives within cities. Across otherwise diverse discursive, ideological and locational contexts, the urban age thesis has become a form of doxic common sense around which questions regarding the contemporary global urban condition are framed. This article argues that, despite its long history and its increasingly widespread influence, the urban age thesis is a flawed basis on which to conceptualize world urbanization patterns: it is empirically untenable (a statistical artifact) and theoretically incoherent (a chaotic conception). This critique is framed against the background of postwar attempts to measure the world's urban population, the main methodological and theoretical conundrums of which remain fundamentally unresolved in early twenty-first century urban age discourse. The article concludes by outlining a series of methodological perspectives for an alternative understanding of the contemporary global urban condition. {\textcopyright} 2013 Urban Research Publications Limited.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract titled ""The 'urban age' in question"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract does discuss theoretical research, critiquing the ""urban age"" thesis. However, this is not related to media diversity or political communication, which is the focus of the review.
+
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses urbanization and the ""urban age"" thesis, which is unrelated to media content or markets.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract focuses on urbanization and does not address any of the key terms related to media diversity such as filter bubbles, echo chambers, or newsroom diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate whether the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or markets, which is a critical exclusion criterion.
+
+- **EC3 (Media as context only):** The abstract does not even use media as a context; it is entirely focused on urbanization.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss media content at all.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity, particularly in media, which is a key exclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The abstract does not discuss diversity in any context, media or otherwise.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract is entirely outside the scope of the systematic literature review on media diversity in political communication, as it does not address media, diversity, or political communication in any form.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:04.249613
+19,{Slack: Adopting Social-Networking Platforms for Active Learning},"Online learning in postsecondary institutions has increased dramatically across the United States and Canada. Although research demonstrates the benefits of online learning for student success, instructors face challenges in facilitating communication, delivering course content, and navigating outdated and cumbersome technologies. The authors examine the use of a free third-party platform called Slack as a tool to facilitate better communication among students and faculty, enable the delivery of diverse and dynamic course content, and reach students in an online course that supports both independent and collaborative learning. The authors present a case study of Slack's use in an online second-year environmental politics course taught at a large Canadian public university. There is a significant and growing literature on how to best engage students in online learning, including active and social learning models as promising approaches to digital teaching. The authors argue that using collaborative social technologies such as Slack - which both replicates and integrates the online and social-media environments that students already inhabit - can assist faculty in meeting their pedagogical goals online. The article documents the instructors' experience in managing discussion and involving students in their online learning through active learning exercises. Best practices are examined. {\textcopyright} 2018 American Political Science Association.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication:
+
+- **IC1 (Empirical or theoretical research):** The abstract describes a case study, which is empirical research. However, the focus is on educational technology rather than media diversity in political communication.
+
+- **IC2 (Media content or market analysis):** The abstract does not involve media content or market analysis. It discusses the use of Slack, a social-networking platform, in an educational context, which does not align with the focus on news media or similar content.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract focuses on educational communication and technology, not on diversity in media content or markets.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The focus is on educational technology and communication, not on media content or market analysis.
+
+- **EC3 (Media as context only):** Slack is used as a tool for communication in an educational setting, not as a central subject of media analysis.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in the context of media; the term ""diverse"" is used in relation to course content, not media diversity.
+
+Overall, the abstract is not relevant to the review's focus on media diversity in political communication, as it does not address media content, market analysis, or diversity in media.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:11.632888
+20,{User-centered Design of Business Communities. The Influence of DIVERSity Factors on Motives to use Communities in Professional Settings},"The professional use and implementation of social media or social media related applications are booming. Solutions like business internal communities promise to connect employees in a more flexible way than old-fashioned mailing lists or static network drives ever could. New solutions are perceived to support communication independent from time and space and in allow a more flexible way of communicating direct as well as indirect through the offer of different communication media (chat, voice over IP, mail, blog, etc.). But in contrast to remarkably good application scenarios, reality is not keeping up. Therefore more investigations of usage conditions and acceptance parameters are needed to find out which showstoppers interfere with a successful implementation. Due to the fact that acceptance by future users is one core condition for a successful implementation of software within operational structures and processes, this paper presents a study with focus on motivational issues to use business communities depending on diversity factors. In this study the focus is set on the diversity factors age, gender, social media expertise, achievement motivation, and perceived locus of control over technology (ploc). First results revealed that the classical user diversity variables age and gender do not influence the motives to use business communities. In contrast technology related diversity factors and achievement motivation revealed correlations with usage motives (r {\textgreater}. 3). The most important motives were the need for information and autonomy. Achievement motivation showed the strongest correlation with the need for social interaction (r =. 51), indicating that highly motivated people can be motivated to use a SNS if it facilitates social interaction. {\textcopyright} 2015",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract does indicate empirical research by mentioning a study focused on motivational issues to use business communities. However, this is not directly related to media diversity in political communication.
+
+- **IC2 (Media content or market analysis):** The abstract discusses the use of business communities and social media applications in professional settings, which does not align with the focus on media content or market analysis related to political communication.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions diversity factors such as age, gender, social media expertise, and achievement motivation, but these are related to user diversity in professional settings, not media diversity. There is no mention of key terms like filter bubbles, echo chambers, or media market diversity.
+
+- **EC2 (No media content/market focus):** The focus is on business communities and professional use of social media, not on media content or market analysis relevant to political communication.
+
+- **EC3 (Media as context only):** The abstract uses media (business communities) as a context for studying user diversity factors, not as a central focus of analysis.
+
+- **EC5 (No diversity focus):** While diversity is mentioned, it is in the context of user diversity factors affecting the use of business communities, not media diversity.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on user characteristics (age, gender, etc.) rather than diversity in media content or markets.
+
+Overall, the abstract does not meet the inclusion criteria for a systematic literature review on media diversity in political communication, as it focuses on user diversity in professional settings rather than media diversity.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:18.437847
+21,{Downstream performance prediction for a manufacturing system using neural networks and six-sigma improvement techniques},"Intelligent techniques have been applied in a range of industrial environments [Meziane F, Vadera S, Kobbacy K, Proudlove N. Intelligent systems in manufacturing: current developments and future prospects. Integrated Manuf Syst 2000;11(4):218-38; Stephanopoulos G, Han C. Intelligent systems in process engineering: a review. Comput Chem Eng, 1996;20 (6-7):743-91; Johnston AB, Maguire LP, McGinnity TM. Using business improvement techniques to inform the optimisation of production cycle time: an industrial case study. Proceedings of the IEEE SMC UK-RI Chapter conference 2004 on intelligent cybernetic systems. September 7-8, 2004 ISSN:1744-9189; Proudlove NC, Vadera S, Kobbacy KAH. Intelligent management systems in operations: A review. J Oper Res Soc, 1998;49(7):682-99] although their implementation is not the first choice of many process engineers. In contrast process engineers in a diverse range of manufacturing environments regularly deploy business improvement techniques, such as the six-sigma methodology. Such techniques aim to control and subsequently identify the relationship between the process inputs and outputs so that a process engineer can more accurately predict how the process output shall perform based on the system inputs. Factors such as cost reduction, automatic process control or simply process prediction may be the defining factors in establishing prediction models. In this paper the authors use as a case study the manufacture of hard disc drives, from the developing of the read-write head to the recording media and the overall construction of the hard disc drive with its controlling mechanisms. Each of these stages are separate and complex-processing elements and integral to the functionality of the end product. In addition each of these stages of manufacturing may take days or weeks to complete and be processed in separate facilities and/or countries. This paper reports on the application of intelligent system techniques to improve the downstream performance prediction within this manufacturing environment. The application is guided by a six-sigma methodology to obtain improved performance. The results highlight that significant downstream prediction accuracy can be obtained using this hybrid approach. {\textcopyright} 2008 Elsevier Ltd. All rights reserved.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract describes empirical research related to manufacturing systems, not media or political communication.
+- **IC2 (Media content or market analysis):** The focus is on manufacturing processes and performance prediction, not on media content or market analysis.
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract is centered on manufacturing and process improvement techniques.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The term ""media"" is used in the context of manufacturing (recording media), not in the context of media content or market.
+- **EC3 (Media as context only):** Media is not central to the analysis; it is merely a component in the manufacturing process.
+- **EC5 (No diversity focus):** There is no focus on diversity in any form.
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in media; it is about manufacturing processes.
+
+Overall, the abstract is completely outside the scope of the review, which focuses on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:26.705052
+22,{Where are the borders of MEDIA capitalism in Slovenia?},"The development in the Slovenian media market suggests that media
+legislation that is dominated by a free market ideology does not prevent
+the concentration of media capital. The process of media privatisation
+takes different courses in print media and in broadcasting. The main
+problems relate to (1)the non-transparency of privatisation processes,
+(2) media as family business, (3) cross-media ownership, (4) the
+impairment of public capital, (5) hostile take-overs. The authors
+analyse five forms of media ownership concentration in Slovenia: (1)
+chains - the same company owns more than the ``normal{\{}''{\}} number of
+media of the same kind in the state; (2) networks - a holding company
+produces programs and distributes them with the help of local stations
+that are members of its network, but have their own legal independence;
+(3) cross-media ownership - media companies include different kinds of
+media in their portfolio; (4) conglomerates - corporations whose main
+activity pertains to a different branch of the economy acquire a media
+company; (5) vertical integration - mergers in programming production,
+distribution, publishing activities, etc. Experiences with the
+``deregulation{\{}''{\}} demonstrate that just an increase of the number of
+available channels or the expansion of new print media does not
+automatically increase the diversity of contents and sources.",False,False,0,0,4,4,1,1,"**Relevance Score:** 4
+
+**Reasoning:** 
+
+The abstract is relevant to the systematic literature review on media diversity in political communication for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates an analysis of media ownership concentration in Slovenia, which suggests empirical research. This aligns with the inclusion criterion for empirical research.
+
+- **IC2 (Media content or market analysis):** The abstract focuses on the Slovenian media market, discussing media legislation, privatisation, and ownership concentration. This clearly involves media market analysis, meeting this inclusion criterion.
+
+- **IC3 (Diversity analysis in media):** The abstract discusses the impact of media ownership concentration on the diversity of contents and sources, directly addressing media diversity. This aligns with the inclusion criterion for diversity analysis.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The abstract is focused on media market issues, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context, so this exclusion criterion does not apply.
+
+- **EC4 (Fictional media content):** The abstract does not focus on fictional media content, so this exclusion criterion does not apply.
+
+- **EC5 (No diversity focus):** The abstract explicitly discusses the diversity of contents and sources, so this exclusion criterion does not apply.
+
+- **EC6 (Non-media diversity focus):** The focus is on media diversity, not non-media diversity, so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a primary focus of the analysis, not a peripheral mention, so this exclusion criterion does not apply.
+
+- **EC8 (Superficial diversity reference):** The abstract provides a substantive discussion on how media ownership affects diversity, not a superficial reference, so this exclusion criterion does not apply.
+
+Overall, the abstract meets most of the inclusion criteria and does not trigger any exclusion criteria, making it relevant to the review. However, it does not provide detailed empirical data or theoretical framework development, which is why it is rated as a 4 rather than a 5.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:37.244492
+23,{Real and Perceived Attitude Agreement in SOCIAL NETWORKs},"It is often asserted that friends and acquaintances have more similar
+beliefs and attitudes than do strangers; yet empirical studies disagree
+over exactly how much diversity of opinion exists within local social
+networks and, relatedly, how much awareness individuals have of their
+neighbors' views. This article reports results from a network survey,
+conducted on the Facebook social networking platform, in which
+participants were asked about their own political attitudes, as well as
+their beliefs about their friends' attitudes. Although considerable
+attitude similarity exists among friends, the results show that friends
+disagree more than they think they do. In particular, friends are
+typically unaware of their disagreements, even when they say they
+discuss the topic, suggesting that discussion is not the primary means
+by which friends infer each other's views on particular issues. Rather,
+it appears that respondents infer opinions in part by relying on
+stereotypes of their friends and in part by projecting their own views.
+The resulting gap between real and perceived agreement may have
+implications for the dynamics of political polarization and theories of
+social influence in general.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research as it reports results from a network survey conducted on Facebook. This criterion is met.
+
+- **IC2 (Media content or market analysis):** The study involves a survey on a social networking platform (Facebook), which could be considered a form of media. However, the focus is on social networks and personal attitudes rather than media content or market analysis. This criterion is not clearly met.
+
+- **IC3 (Diversity analysis in media):** The abstract discusses diversity of opinion within social networks, but it does not focus on media diversity. The terms related to media diversity analysis, such as filter bubbles or newsroom diversity, are not mentioned. This criterion is not met.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed. This criterion does not apply.
+
+- **EC2 (No media content/market focus):** The focus is on social networks and personal attitudes rather than media content or market analysis. This criterion is met for exclusion.
+
+- **EC3 (Media as context only):** The abstract uses Facebook as a platform for the survey, but the central analysis is on personal attitudes and perceptions, not media content. This criterion is met for exclusion.
+
+- **EC4 (Fictional media content):** The study does not involve fictional media content. This criterion does not apply.
+
+- **EC5 (No diversity focus):** The study does focus on diversity of opinion, but not in the context of media diversity. This criterion is partially met for exclusion.
+
+- **EC6 (Non-media diversity focus):** The focus is on diversity of opinion within social networks, not media diversity. This criterion is met for exclusion.
+
+- **EC7 (Peripheral diversity mention):** The abstract does not mention media diversity as a primary focus. This criterion is met for exclusion.
+
+- **EC8 (Superficial diversity reference):** The abstract does not superficially reference media diversity; it does not address it at all. This criterion is met for exclusion.
+
+Overall, while the study involves empirical research and discusses diversity of opinion, it does not focus on media content or media diversity, which are central to the inclusion criteria. Therefore, it is minimally relevant to the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:38:50.958917
+24,{Typology of Web 2.0 spheres: Understanding the cultural dimensions of SOCIAL MEDIA spaces},"It has taken the past decade to commonly acknowledge that online space is tethered to real place. From euphoric conceptualizations of social media spaces as a novel, unprecedented and revolutionary entity, the dust has settled, allowing for talk of boundaries and ties to real-world settings. Metaphors have been instrumental in this pursuit, shaping perceptions and affecting actions within this extended structural realm. Specifically, they have been harnessed to architect Web 2.0 spaces, be it chatrooms, electronic frontiers, homepages, or information highways for policy and practice. While metaphors are pervasive in addressing and normalizing new media spaces, there is less effort channeled into organizing these digital domains along cultural lines to systematize and deepen understandings of its histories, agencies and communities. Hence, this article proposes a framework that reveals dominant cultural dimensions of Web 2.0 spaces through a five-fold typology: (1) utilitarian-driven, (2) aesthetic-driven, (3) context-driven, (4) play-driven and (5) value-driven. This effort capitalizes and transfers mappings of actors and networks from real to virtual space to capture and organize diverse cultural (re)productions. {\textcopyright} The Author(s) 2012.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract proposes a theoretical framework, which aligns with IC1. However, this is the only inclusion criterion it meets.
+  
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses the cultural dimensions of Web 2.0 spaces, which are not specifically related to media content or market analysis as defined by the criteria (e.g., news media, non-fictional TV shows).
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract focuses on cultural dimensions and typologies of Web 2.0 spaces, not on diversity aspects such as filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate non-peer-reviewed content, so this criterion does not apply.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or market analysis, which is central to the review's scope.
+
+- **EC3 (Media as context only):** The abstract uses media spaces as a context to discuss cultural dimensions, not as the central focus of analysis.
+
+- **EC4 (Fictional media content):** The abstract does not focus on fictional media content, so this criterion does not apply.
+
+- **EC5 (No diversity focus):** The abstract lacks a focus on diversity, which is a critical component of the inclusion criteria.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in media content or markets.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract does not align with the primary focus of the systematic review, which is media diversity in political communication. It lacks a focus on media content or market analysis and does not address diversity in media, leading to a relevance score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:00.863352
+25,CRITICAL QUESTIONS FOR BIG DATA.,"The era of Big Data has begun. Computer scientists, physicists, economists, mathematicians, political scientists, bio-informaticists, sociologists, and other scholars are clamoring for access to the massive quantities of information produced by and about people, things, and their interactions. Diverse groups argue about the potential benefits and costs of analyzing genetic sequences, social media interactions, health records, phone logs, government records, and other digital traces left by people. Significant questions emerge. Will large-scale search data help us create better tools, services, and public goods? Or will it usher in a new wave of privacy incursions and invasive marketing? Will data analytics help us understand online communities and political movements? Or will it be used to track protesters and suppress speech? Will it transform how we study human communication and culture, or narrow the palette of research options and alter what ‘research’ means? Given the rise of Big)",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** The abstract ""CRITICAL QUESTIONS FOR BIG DATA"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract does not indicate empirical research or the development of a theoretical framework. It discusses broad questions and potential implications of Big Data without specifying a research study or theoretical analysis.
+
+- **IC2 (Media content or market analysis):** While the abstract mentions ""social media interactions,"" it does not focus on media content or market analysis. The mention is in the context of Big Data and its implications, not a specific analysis of media content or markets.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract does not include any of the key terms related to media diversity, such as filter bubbles, echo chambers, or newsroom diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not specify whether the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or markets; it broadly discusses Big Data and its implications across various fields.
+
+- **EC3 (Media as context only):** Media is mentioned as part of a list of data sources, not as a central focus of analysis.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss fictional media content.
+
+- **EC5 (No diversity focus):** The abstract lacks a focus on diversity, which is a critical component of the inclusion criteria.
+
+- **EC6 (Non-media diversity focus):** There is no focus on media diversity; the abstract discusses diverse groups in a general sense without a specific focus on media.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, even peripherally.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract does not align with the inclusion criteria and is outside the scope of the review focused on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:11.520261
+26,{Exemplification Theory: Judging the Whole by Some of Its Parts},"Exemplification is a ubiquitous phenomenon in communication. It permeates informative, educational, and persuasive endeavors in both interpersonal exchanges and media presentations. Despite this, it has received little attention in communication research. Although its empirical exploration has begun and shown considerable promise, especially in the news context, a theoretical foundation has been missing. This essay attempts to remedy the neglect by conceptually scrutinizing the exemplification process. The relationship between exemplification and representation is given special attention, and exemplification strategies are extracted and their merits appraised. Exemplification is examined in different domains of communication, and the interface between direct and mediated experience is surveyed in conceptual terms. It is hoped that the analysis will foster a theoretical integration of the conceptually diverse and often eclectic research on exemplification effects.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates a theoretical exploration of exemplification, which aligns with IC1 as it attempts to provide a theoretical foundation for the concept. 
+
+- **IC2 (Media content or market analysis):** The abstract mentions media presentations and the news context, suggesting some relevance to media content. However, it does not explicitly focus on media content or market analysis, which weakens its alignment with IC2.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis or related key terms such as filter bubbles, echo chambers, or media market diversity. This abstract does not meet IC3.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information on whether the content is peer-reviewed, but it is presented as an essay, which could imply a non-peer-reviewed format. However, without explicit information, this criterion cannot be definitively applied.
+
+- **EC2 (No media content/market focus):** While media is mentioned, the focus is on exemplification as a communication phenomenon rather than a direct analysis of media content or markets, which aligns with EC2.
+
+- **EC3 (Media as context only):** The abstract uses media as a context for discussing exemplification, but it is not central to the analysis, aligning with EC3.
+
+- **EC4 (Fictional media content):** There is no mention of fictional media content, so EC4 does not apply.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity, aligning with EC5.
+
+- **EC6 (Non-media diversity focus):** There is no mention of diversity in any context, so EC6 does not apply.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, so EC7 does not apply.
+
+- **EC8 (Superficial diversity reference):** There is no mention of diversity, so EC8 does not apply.
+
+Overall, the abstract primarily focuses on the theoretical exploration of exemplification in communication, with only a peripheral mention of media. It lacks a focus on media diversity, which is central to the inclusion criteria. Therefore, it is minimally relevant to the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:21.787216
+27,Framing of the Immigration Reform in 2006.,"This content analysis examined how the U.S. newspaper editorials framed the immigration reform in 2006 and what community characteristics—structural pluralism, Hispanic ethnic identity, partisanship, and religion—might have affected their frames. The results showed that editorials in communities that were more structurally or ethnically pluralistic and less politically or religiously conservative were more likely to support granting citizenship to illegal immigrants. The more structurally or ethnically pluralistic the community, the more likely its editorials perceived illegal immigrants as “beneficial” to the country. The more religiously or politically conservative the community, the more likely its editorials perceived illegal immigrants as “harmful.” [ABSTRACT FROM AUTHOR], Copyright of Journalism & Mass Communication Quarterly is the property of Sage Publications Inc. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright hold)",True,False,1,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through content analysis, which meets the inclusion criterion for empirical research.
+
+- **IC2 (Media content or market analysis):** The study focuses on U.S. newspaper editorials, which qualifies as media content analysis. This aligns with the inclusion criterion.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions ""structural pluralism"" and ""ethnic identity,"" which suggests a focus on diversity. However, the primary focus seems to be on how these community characteristics affect editorial framing rather than a direct analysis of diversity within the media itself. This makes the alignment with IC3 somewhat unclear.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a peer-reviewed journal, Journalism & Mass Communication Quarterly, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The study is centered on media content (newspaper editorials), so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context, so this exclusion criterion does not apply.
+
+- **EC4 (Fictional media content):** The study does not focus on fictional media content, so this exclusion criterion does not apply.
+
+- **EC5 (No diversity focus):** While diversity is mentioned, the primary focus appears to be on the framing of immigration reform rather than a direct analysis of media diversity. This makes the diversity focus somewhat peripheral.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is related to media (editorials), so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not entirely peripheral, but it is not the primary focus of the study, which is more about framing.
+
+- **EC8 (Superficial diversity reference):** The diversity references are not superficial, but they are not the central focus of the analysis.
+
+Overall, the abstract shows some relevance to the review's focus on media diversity in political communication, but the primary focus on framing rather than direct diversity analysis results in a moderate relevance score. Additional information on how diversity is analyzed within the media content itself would be needed for a higher relevance rating.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:30.725114
+28,{The {\#}YoSoy132 movement and the struggle for MEDIA democratization in Mexico},"In this article, we analyze through a political economy of communication
+lens the historical and political contexts in which the {\#}YoSoy132
+movement emerged, the concentration of Mexican media system and the
+possibilities offered by social media to young people, situating the
+issue of media democratization at the centre of the {\#}YoSoy132 struggle.
+Drawing on two group and four individual interviews, we also focus on
+the dimension of students' communication practices in order to provide a
+more nuanced evaluation of the role played by digital media inside the
+movement. By blending a political economy analysis with an exploration
+of media practices, we offer an in-depth understanding of how
+communication technologies were used and appropriated in order to
+democratize mainstream media, foster pluralism and trigger important
+processes related to political culture within the Mexican context. We
+conclude by assessing the achievements as well as the challenges of
+{\#}YoSoy132.",False,False,0,0,4,4,1,1,"**Relevance Score:** 4
+
+**Reasoning:** 
+
+The abstract for the article titled ""The {\#}YoSoy132 movement and the struggle for MEDIA democratization in Mexico"" aligns well with the inclusion criteria for the systematic literature review on media diversity in political communication:
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through the mention of group and individual interviews, suggesting data collection and analysis, which meets the empirical research criterion.
+
+- **IC2 (Media content or market analysis):** The abstract discusses the concentration of the Mexican media system and the role of social media, which aligns with media content and market analysis.
+
+- **IC3 (Diversity analysis in media):** The abstract explicitly mentions fostering pluralism and democratizing mainstream media, which are key aspects of diversity analysis in media.
+
+The abstract does not meet any of the exclusion criteria:
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed.
+
+- **EC2 (No media content/market focus):** The focus is clearly on media content and market, specifically the Mexican media system and social media.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context.
+
+- **EC4 (Fictional media content):** The focus is on non-fictional media, specifically social media and mainstream media.
+
+- **EC5 (No diversity focus):** There is a clear focus on media diversity, as indicated by the discussion of pluralism and democratization.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on media, specifically the democratization and pluralism of media.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a primary focus, not a peripheral mention.
+
+- **EC8 (Superficial diversity reference):** The abstract provides an in-depth exploration of media practices related to diversity, not a superficial reference.
+
+Overall, the abstract strongly aligns with the inclusion criteria, particularly in its focus on media democratization and pluralism, which are central to the review's focus on media diversity in political communication. However, it does not receive a perfect score of 5 because while it meets the criteria well, the depth of analysis on diversity specifically could be more explicitly detailed in the abstract.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:41.153520
+29,{An efficient code gateway for RFID seamless applications},"This work presents novel design schemes for the code gateway between the
+electronic product code (EPC) and ubiquitous ID (uID) for
+radio-frequency identification (RFID) technology solutions. Interfaces
+of the gateway that are implemented include the system interface, EPC
+discovery service (DS), uID DS, and the certification card mechanism.
+Five major operations are also developed, including inquiry of EPC DS,
+uID DS, code diversion mechanism, PIN-IC interface, and code conversion
+mechanism. Simulation results indicate that in addition to providing
+codes diversion and conversion, the proposed code gateway achieves
+low-order conformity between these two systems. Moreover, the
+implemented EPC DS and uID DS interface provide immediate commodity news
+and exchange of historical information. In addition to delivering
+inevitable processing efficiency, the integrated system between these
+two systems significantly improves ubiquitous computing environments.
+Copyright (c) 2011 John Wiley {\&} Sons, Ltd.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract describes a technical design and implementation of a code gateway for RFID technology, which does not align with empirical or theoretical research in media diversity or political communication.
+
+- **IC2 (Media content or market analysis):** The focus is on RFID technology and code gateways, not on media content or market analysis. There is no mention of news media, non-fictional TV shows, or news articles.
+
+- **IC3 (Diversity analysis in media):** There is no analysis of diversity in media. The abstract does not mention any key terms related to media diversity such as filter bubbles, echo chambers, or newsroom diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not specify if the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract focuses on RFID technology and code gateways, not on media content or market analysis.
+
+- **EC3 (Media as context only):** Media is not even used as a context in this abstract.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss media content at all.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in any form.
+
+- **EC6 (Non-media diversity focus):** The abstract does not discuss diversity in any context, media or otherwise.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract is completely outside the scope of the systematic literature review on media diversity in political communication, leading to a relevance score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:39:49.871994
+30,{I Don't Like You Any More: FACEBOOK Unfriending by Israelis During the Israel-Gaza Conflict of 2014},"This article explores Facebook unfriending during the Israel-Gaza conflict of 2014. We suggest that politically motivated unfriending is a new kind of political gesture. We present an analysis of a survey of 1,013 Jewish Israeli Facebook users. A total of 16{\%} of users unfriended or unfollowed a Facebook friend during the fighting. Unfriending was more prevalent among more ideologically extreme and more politically active Facebook users. Weak ties were most likely to be broken, and respondents mostly unfriended people because they took offense at what they had posted or disagreed with it. Although social network sites may expose people to diverse opinions, precisely by virtue of the many weak ties users have on them, our findings show these ties to be susceptible to dissolution. {\textcopyright} 2015 International Communication Association.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through the analysis of a survey of 1,013 Jewish Israeli Facebook users. This criterion is met.
+
+- **IC2 (Media content or market analysis):** The study focuses on Facebook, a social media platform, which can be considered a form of media content. However, the analysis is more about user behavior (unfriending) rather than a direct analysis of media content or market. This criterion is partially met.
+
+- **IC3 (Diversity analysis in media):** The abstract does not focus on diversity analysis in media. While it mentions exposure to diverse opinions, the primary focus is on unfriending behavior rather than a detailed analysis of media diversity. This criterion is not met.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate that it is non-peer-reviewed. This criterion is not applicable.
+
+- **EC2 (No media content/market focus):** The study does have a media focus as it involves Facebook, but the focus is more on user behavior rather than media content or market analysis. This criterion is partially applicable.
+
+- **EC3 (Media as context only):** The media (Facebook) is central to the analysis, so this criterion is not applicable.
+
+- **EC4 (Fictional media content):** The study does not involve fictional media content. This criterion is not applicable.
+
+- **EC5 (No diversity focus):** The study does not have a primary focus on diversity in media. This criterion is applicable.
+
+- **EC6 (Non-media diversity focus):** The study does not focus on media diversity but rather on social behavior (unfriending). This criterion is applicable.
+
+- **EC7 (Peripheral diversity mention):** The mention of diverse opinions is peripheral and not the primary focus of the study. This criterion is applicable.
+
+- **EC8 (Superficial diversity reference):** The reference to diverse opinions is superficial and not analyzed in depth. This criterion is applicable.
+
+Overall, while the study involves media (Facebook) and empirical research, it lacks a focus on media diversity analysis, which is central to the inclusion criteria. The primary focus is on user behavior (unfriending) rather than media content or diversity, leading to a low relevance score.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:00.147713
+31,"{International communication, ethnography, and the challenge of globalization}","This article articulates media ethnography with international
+communication theory in the context of globalization. It explores the
+history and regional trajectories of media ethnography, as well as
+anthropology's epistemological and political issues of representation
+that have become relevant to media studies. The authors argue that
+rethinking the limits and potential of media ethnography to address
+cultural consumption also necessarily involves considering how
+ethnography can serve to engender a vision of international
+communication theory grounded in the practices of everyday life. This
+reformulation is crucial at a time when some media scholars celebrate
+difference via microassessments of postcolonial locales and the
+plurality of cultures without attempting to consider global structural
+concerns. In fact, the authors argue, if media ethnographies are
+rigorously developed, they can offer international communication theory
+the material to bridge the gap between meaning and structure without
+losing site of the complexity, context, and power imbalances inherent in
+processes of globalization.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract discusses theoretical aspects of media ethnography and international communication theory, which aligns with IC1. However, it does not specify empirical research or theoretical framework development related to media diversity.
+  
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses media ethnography and international communication theory in the context of globalization, which does not meet the criteria for media content or market analysis.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract does not include any of the key terms related to diversity analysis such as filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information on whether the content is peer-reviewed, but this is not a primary exclusion criterion in this context.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or market analysis, which aligns with EC2 for exclusion.
+
+- **EC3 (Media as context only):** The abstract uses media ethnography as a context to discuss international communication theory, which aligns with EC3 for exclusion.
+
+- **EC4 (Fictional media content):** Not applicable as the abstract does not discuss fictional media content.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity, which aligns with EC5 for exclusion.
+
+- **EC6 (Non-media diversity focus):** The abstract does not focus on media diversity, aligning with EC6 for exclusion.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract does not meet the inclusion criteria for media content or market analysis or diversity analysis in media, and it primarily discusses media ethnography and international communication theory without a focus on diversity. Therefore, it is rated as ""Not Relevant"" with a score of 1.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:08.936426
+32,{Have You Heard?: US JOURNALIStic “listening” in cacophonous times},"This study seeks to understand “listening” as a practice and norm of journalism in the context of an eruption of journalistic discourse about listening surrounding the 2016 US election. An examination of US journalists' own discourse about listening pointed to an understanding of the need to listen more, better, and to a more diverse set of voices. The widespread criticism of journalism's performance frequently pointed to failures of listening as a root cause of the more general failure to adequately cover the campaign. Thus, listening involved a set of skills, but was also sometimes construed as a moral obligation. Overall, however, the discourse showed an anemic understanding of listening, often pointing to the public's inability to listen to journalists. {\textcopyright} 2018, {\textcopyright} 2018 Informa UK Limited, trading as Taylor {\&} Francis Group.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests an examination of journalistic discourse, which could imply empirical research. However, it is not explicitly stated whether this is empirical or theoretical research, leaving some ambiguity.
+
+- **IC2 (Media content or market analysis):** The focus is on journalistic discourse about listening, which is related to media content. However, the abstract does not clearly indicate an analysis of media content or market, but rather the practice of listening within journalism.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions listening to a ""more diverse set of voices,"" which suggests a diversity focus. However, the primary focus seems to be on the practice of listening rather than a detailed analysis of diversity in media content or market.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is published by Informa UK Limited, trading as Taylor & Francis Group, which suggests it is likely peer-reviewed.
+
+- **EC2 (No media content/market focus):** The abstract does focus on journalism, which is a media context, but the central theme is listening rather than media content or market analysis.
+
+- **EC3 (Media as context only):** The abstract does not use media merely as context; it discusses journalism practices, which are central to the analysis.
+
+- **EC4 (Fictional media content):** The abstract does not focus on fictional media content.
+
+- **EC5 (No diversity focus):** There is a mention of diversity in terms of listening to diverse voices, but it is not the primary focus of the study.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is related to media (journalistic voices), but it is not the central theme.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is somewhat peripheral, as the main focus is on listening practices.
+
+- **EC8 (Superficial diversity reference):** The reference to diversity is not deeply analyzed; it is mentioned in the context of listening practices.
+
+Overall, the abstract has limited relevance to the systematic review's focus on media diversity in political communication. The primary focus on listening practices rather than a detailed analysis of media diversity leads to a low relevance score.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:20.440894
+33,{How TWITTER affects academic library users},"Purpose: This study aims to determine the influence of social networking Twitter library on the level of utilization of college libraries. Design/methodology/approach: The method used to explore this problem is explanative as it uses the multiple linear regression test. The research location is at Universitas Airlangga Library, Surabaya, Indonesia. The sampling technique was purposive, as it used the criteria of the academic community of Airlangga University that became an active member or often visited the homepage of the library's Twitter account at least three times in the past one month. The sample of this study was 220 respondents. Findings: The results of this study illustrate that the satisfaction of users of social networking Twitter library which includes surveillance, diversion/entertainment, personal identity and social relationship, either partially or simultaneously, affects the utilization of the college library. Originality/value: Based on these results, libraries should always provide services in accordance with the characteristics of user behavior. In the era of booming social media Twitter for teenagers who are the largest users of college libraries, the use of social networking medium Twitter is considered effective in the libraries of universities. {\textcopyright} 2018, Emerald Publishing Limited.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the criteria:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical, as it uses a multiple linear regression test. However, this alone is not sufficient for inclusion.
+  
+- **IC2 (Media content or market analysis):** The focus is on the use of Twitter by a library, which does not align with the analysis of media content or market in the context of political communication. The study is about library utilization, not media content or market analysis.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in the abstract. The study focuses on user satisfaction and library utilization, not on diversity in media.
+
+- **EC2 (No media content/market focus):** The study's focus is on library utilization rather than media content or market, which is central to the exclusion criteria.
+
+- **EC3 (Media as context only):** Twitter is used as a context for library utilization, not as a central focus of media analysis.
+
+- **EC5 (No diversity focus):** The abstract does not address diversity in any form, which is a critical component of the inclusion criteria.
+
+Overall, the abstract does not align with the focus on media diversity in political communication, and it lacks any analysis of diversity in media content or market. Therefore, it is not relevant to the systematic literature review's scope.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:29.315039
+34,{Socially MEDIAted internet surveys: Recruiting participants for online experiments},"The Socially Mediated Internet Survey (SMIS) method is a cost-effective technique used to obtain web-based, adult samples for experimental research in political science. SMIS engages central figures in online social networks to help recruit participants among visitors to these websites, yielding sizable samples for experimental research. We present data from six samples collected using the SMIS method and compare them to those gathered by other sampling approaches such as Amazon's Mechanical Turk. While not representative of the general adult population, our SMIS samples are significantly more diverse than undergraduate convenience samples, not only demographically but also politically. We discuss the applicability of the method to experimental research and its usefulness for obtaining samples of special, politically relevant subpopulations such as political sophisticates and activists. We argue that the diversity of SMIS samples, along with the ability to capture highly engaged citizens, can circumvent questions about the artificiality of political behavior experiments entirely based on student samples and help to document sources of heterogeneous experimental treatment effects. {\textcopyright} American Political Science Association 2013.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract describes empirical research using the SMIS method to collect data, which aligns with this criterion. However, this alone is not sufficient for inclusion.
+  
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses a method for recruiting participants for experiments, which does not align with this criterion.
+
+- **IC3 (Diversity analysis in media):** While the abstract mentions the diversity of samples, it refers to demographic and political diversity of survey participants, not diversity in media content or markets. This does not meet the criterion of diversity analysis in media.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a publication by the American Political Science Association, suggesting it is peer-reviewed, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The focus is on survey methodology and participant recruitment, not on media content or markets, which meets this exclusion criterion.
+
+- **EC3 (Media as context only):** The abstract uses media in the context of recruiting participants, not as a central focus of analysis, meeting this exclusion criterion.
+
+- **EC4 (Fictional media content):** Not applicable as the abstract does not discuss fictional media.
+
+- **EC5 (No diversity focus):** The diversity mentioned is not related to media diversity, meeting this exclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on participant demographics and political orientation, not media diversity, meeting this exclusion criterion.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not central to media analysis, meeting this exclusion criterion.
+
+- **EC8 (Superficial diversity reference):** The diversity reference is not related to media analysis, meeting this exclusion criterion.
+
+Overall, the abstract does not meet the core inclusion criteria related to media content or diversity analysis in media, and it meets several exclusion criteria, particularly EC2, EC3, EC5, and EC6. Therefore, it is rated as not relevant for the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:41.245627
+35,"{One religion, many identities? the reception of Islam related NEWS items by Muslim women with Turkish, Moroccan and Flemish roots in Flanders}","This paper contributes to the existing body of knowledge regarding the relationship between media and diasporic identity formation by moving beyond the notion of Muslim women as a uniform group and questioning the dichotomy of the West versus Islam. To investigate the (versatility of the) relationship between media, culture and (re)created collective identities, focus group interviews were carried out with Muslim women with Turkish, Moroccan and Flemish roots, all living in Flanders. They were shown a number of news items representative of public service broadcasting and commercial television newscasts that were analyzed for the representation of ethnic minorities, followed by focus group discussions. The results demonstrate the diversity and hybridity within the Muslim women's identities-with religious, ethnic and cultural aspects mediating the reception of these media texts resulting in a 'polyphony' of Muslim identities. {\textcopyright} 2012 by Koninklijke Brill N.V., Leiden.",False,False,0,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through the use of focus group interviews, which aligns with the inclusion criteria for empirical research.
+
+- **IC2 (Media content or market analysis):** The study involves the analysis of news items from public service broadcasting and commercial television, which fits the criteria for media content analysis.
+
+- **IC3 (Diversity analysis in media):** The abstract discusses the representation of ethnic minorities in news items and the diversity within Muslim women's identities, suggesting a focus on diversity analysis. However, the primary focus seems to be on identity formation rather than a direct analysis of media diversity itself, which makes the alignment with IC3 somewhat unclear.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate that it is non-peer-reviewed content, so this exclusion criterion does not apply.
+
+- **EC2 (No media content/market focus):** The study clearly focuses on media content, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, as the study examines the reception of media texts, so this exclusion criterion does not apply.
+
+- **EC4 (Fictional media content):** The study focuses on news items, not fictional content, so this exclusion criterion does not apply.
+
+- **EC5 (No diversity focus):** While the study mentions diversity within identities, the primary focus appears to be on identity formation rather than media diversity, which makes the alignment with this criterion unclear.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is related to media reception, so this exclusion criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a central theme in the study, so this exclusion criterion does not apply.
+
+- **EC8 (Superficial diversity reference):** The abstract suggests a deeper analysis of diversity within identities, but it is not clear if this extends to a comprehensive analysis of media diversity.
+
+Overall, the abstract shows some relevance to the review's focus, particularly in terms of media content analysis and diversity within identities. However, the primary focus on identity formation rather than a direct analysis of media diversity results in a moderate relevance score. Additional information on how the study addresses media diversity specifically would be needed for a more definitive decision.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:40:54.568977
+36,{Composing Excitement: Understanding the Visual Rhetoric of the Voice},"Reality TV has been increasingly studied by media and cultural studies
+scholars and practitioners, becoming a subject of critique across the
+disciplines of communication. While many reality TV programs have been
+the target of analysis for racism, sexism, and violence cultivation, not
+much has been done to explore the visual compositions in this genre to
+consider the rhetoric of excitement or audience stimulation. Using a
+data-driven approach, this article examines the visual formats and
+presentational structures employed by a popular reality franchise vocal
+competition show, The Voice, as produced in China, America, and the
+United Kingdom. Through a comparative content analysis, the author
+examines the 2014 finale performances of each version of the show,
+focusing on their stage design, cinematography, and screen graphics.
+This study finds distinctions in the show's visual mechanism across
+three countries, thus suggesting imperative insights to the diversity of
+visual characterization and the functions of visual rhetoric in a modern
+TV talent show.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** The study is empirical as it uses a data-driven approach and comparative content analysis. However, this alone is not sufficient for inclusion without meeting other criteria.
+
+- **IC2 (Media content or market analysis):** The focus is on a reality TV show, which is considered fictional media content for the purposes of this review. The analysis of visual formats and presentational structures in a reality TV show does not align with the focus on news media or non-fictional TV shows.
+
+- **IC3 (Diversity analysis in media):** The abstract does not focus on diversity analysis in media. While it mentions ""diversity of visual characterization,"" this is not related to media diversity as defined by the inclusion criteria (e.g., filter bubbles, echo chambers, newsroom diversity).
+
+The abstract is excluded based on the following exclusion criteria:
+
+- **EC4 (Fictional media content):** The study focuses on a reality TV show, which is considered fictional content for the purposes of this review.
+
+- **EC5 (No diversity focus):** The study does not focus on media diversity as defined by the inclusion criteria. The mention of ""diversity of visual characterization"" is not relevant to the systematic review's focus on media diversity.
+
+Overall, the abstract does not align with the systematic review's focus on media diversity in political communication, and it primarily examines visual rhetoric in a reality TV show, which falls outside the scope of the review.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:41:04.905364
+37,When corporations come to define the visual politics of gender.,"While stock photographs have come to saturate media and have been mocked for their clichéd nature, for example where women are pictured laughing alone with salad, a powerful corporation like Getty Images that disseminates commercial imagery globally has sought to challenge these stereotypes by making more politicized images. This article examines one such case, that is, Getty's Genderblend visual trend, which claims to portray gender identities and relations in ways that are both more inclusive and diverse, harnessing feminist theory as part of its promotion. Taking a multimodal discourse and visual design approach, the article looks at how corporate imagery can be styled as political and, in turn, how a politics of difference itself is shaped in the interests of the ideologies of consumer capitalism. [ABSTRACT FROM AUTHOR], Copyright of Journal of Language & Politics is the property of John Benjamins Publishing Co. and its content may not be copied or emailed to multiple sites or pos)",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests a theoretical approach by mentioning the use of feminist theory and a multimodal discourse and visual design approach. This aligns with IC1 as it indicates a theoretical framework development.
+
+- **IC2 (Media content or market analysis):** The abstract discusses stock photographs and corporate imagery, which can be considered media content. However, it does not explicitly focus on news media, non-fictional TV shows, or news articles, which are the preferred types of media content for inclusion.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions ""more inclusive and diverse"" portrayals of gender identities, which suggests a focus on diversity. However, it does not use key terms like filter bubbles, echo chambers, or media market diversity, and the focus on diversity is more about visual representation rather than media diversity in political communication.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a journal article, which is typically peer-reviewed, so this criterion does not apply.
+
+- **EC2 (No media content/market focus):** The abstract does focus on media content (stock photographs), so this criterion does not apply.
+
+- **EC3 (Media as context only):** The media content (stock photographs) is central to the analysis, so this criterion does not apply.
+
+- **EC4 (Fictional media content):** The content discussed is not fictional, so this criterion does not apply.
+
+- **EC5 (No diversity focus):** There is a focus on diversity in terms of gender representation, but it is not clear if this aligns with the specific diversity focus required for political communication.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on visual representation rather than media diversity, which does not align with the criteria.
+
+- **EC7 (Peripheral diversity mention):** The diversity focus is not peripheral; it is a central theme of the abstract.
+
+- **EC8 (Superficial diversity reference):** The abstract does not provide a superficial reference to diversity; it discusses the portrayal of gender identities and relations.
+
+Overall, while the abstract touches on diversity and media content, it does not strongly align with the specific focus on media diversity in political communication required by the inclusion criteria. The focus on visual politics and corporate imagery does not clearly meet the criteria for inclusion in a systematic review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:41:17.718317
+38,"{Making DIVERSity Conform? An Intersectional, Longitudinal Analysis of LGBT-Specific Mainstream MEDIA Advertisements}","This study introduces an intersectional analysis of explicit LGBT portrayals in mainstream advertising between 2009 and 2015. The analysis provides insights into the (in)visibility of the LGBT community over a period of significant social change. It finds that although the number of explicit representations of LGBT characters has risen dramatically, 230 out of 240 intersections of sexuality, class, age, and race remain invisible. In using a new ad format—human interest ads—advertisers move away from hypersexualization, toward real individuals' stories of love and families. Nonetheless, the analysis highlights how the erasure of multiply marginalized groups in mainstream advertising continues to perpetuate a heteronormative, domesticized version of “gayness” and discusses the adverse effects that lie herein. It is proposed that non-LGBT consumers are the underlying target group of LGBT-explicit advertising, causing non-target market effects that alienate large parts of the LGBT community despite their overt inclusion. {\textcopyright} 2018 Taylor {\&} Francis.",False,False,0,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through an intersectional analysis of LGBT portrayals in advertising, which aligns with IC1.
+
+- **IC2 (Media content or market analysis):** The focus is on mainstream media advertisements, which could be considered a form of media content analysis. However, the primary focus seems to be on the portrayal of LGBT characters rather than a broader media content or market analysis.
+
+- **IC3 (Diversity analysis in media):** The study does involve diversity analysis, specifically focusing on the visibility and representation of LGBT individuals in media advertisements. However, it does not explicitly mention key terms like filter bubbles, echo chambers, or media market diversity, which are central to the inclusion criteria.
+
+- **EC1 (Non-peer-reviewed content):** The abstract is from a peer-reviewed source, as indicated by the copyright notice from Taylor & Francis, so this criterion does not apply.
+
+- **EC2 (No media content/market focus):** The study does focus on media content, specifically advertisements, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** The media is central to the analysis, so this criterion does not apply.
+
+- **EC4 (Fictional media content):** The study does not focus on fictional content, so this criterion does not apply.
+
+- **EC5 (No diversity focus):** The study does focus on diversity, specifically the representation of LGBT individuals, so this criterion does not apply.
+
+- **EC6 (Non-media diversity focus):** The focus is on media diversity, specifically in advertisements, so this criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** The diversity focus is central to the study, so this criterion does not apply.
+
+- **EC8 (Superficial diversity reference):** The diversity analysis is not superficial; it is a central part of the study.
+
+Overall, while the study involves diversity analysis in media, it does not strongly align with the specific focus on media diversity in political communication as outlined in the inclusion criteria. The lack of explicit connection to key terms related to media diversity in political communication and the focus on advertising rather than broader media content or market analysis limits its relevance.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:41:28.128525
+39,{Overview of the content distribution platform},"The Content Distribution Platform provides a platform for production
+support, copyright management, media asset management, media delivery
+and browsing by integrating various technologies, such as media
+processing technology for voice and video and multimedia database
+technology, which have long been studied by NTT Cyber Communications
+Laboratory Group. It constitutes part of the Information Sharing
+Platform being developed as a key objective of NTT Laboratories, and
+will serve as the infrastructure for diverse content sharing platform
+services, such as video content delivery services and digital asset
+management services, which are intended to promote the secondary use of
+digital content. This article presents the intended roles of the Content
+Distribution Platform and the various technologies used in the platform.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract for ""Overview of the content distribution platform"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract does not indicate any empirical research or theoretical framework development. It describes a technological platform rather than a research study.
+
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses a content distribution platform and its technological components, not the analysis of media content or markets.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract does not include any of the key terms related to diversity analysis such as filter bubbles, echo chambers, or media market diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not specify if the content is peer-reviewed, but the focus on technology suggests it might not be relevant to the review's scope.
+
+- **EC2 (No media content/market focus):** The abstract focuses on a technological platform rather than media content or market analysis, which is central to the review's focus.
+
+- **EC3 (Media as context only):** The abstract uses media in the context of technology and infrastructure, not as a central focus of analysis.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss fictional content.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in the abstract.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in any form.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity, superficial or otherwise.
+
+Overall, the abstract is not relevant to the systematic literature review's focus on media diversity in political communication, as it does not address any of the inclusion criteria and falls outside the scope of the review.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:41:39.051894
+40,{Religious studies and teaching religion to children in Tatarstan. The case of Islam},"This article deals with children's instruction on Islam in the Republic of Tatarstan. Research is based on fieldwork in seven rural districts and six cities carried out in June-July 2017, as well as on the analysis of teaching programmes, textbooks and mass media publications. The study shows that the main factor of a particular model of religious education in Tatarstan is its multi-ethnic and multi-religious composition. As a result, only two ""modules"" are being used in the public schools - World Religious Cultures and Secular Ethics, while the four other ""modules"" linked to particular religions remain outside the public schools. Islam is being taught in a great diversity of forms: Muslim kindergartens, special courses operating near mosques, summer camps, discussions and meetings with Imams and Islamic clergy at schools, regular courses in Islamic ethics, and the private school ""Uthmaniya"" (Kazan), established by the Tatarstan Muslim Religious Board. The case of Tatarstan is an interesting example of building state-religious relations in post-Soviet and post-secular societies.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research through fieldwork and analysis of teaching programs and media publications. However, the focus is on religious education rather than media diversity in political communication.
+
+- **IC2 (Media content or market analysis):** The abstract mentions ""mass media publications,"" but the primary focus is on religious education and not on media content or market analysis related to political communication.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The diversity discussed pertains to religious education forms, not media diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not provide information on whether the content is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or market analysis. The mention of media is peripheral to the main topic of religious education.
+
+- **EC3 (Media as context only):** Media is mentioned only in the context of religious education, not as a central focus of analysis.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not focus on fictional media content.
+
+- **EC5 (No diversity focus):** The diversity focus is on religious education methods, not on media diversity.
+
+- **EC6 (Non-media diversity focus):** The diversity discussed is related to religious education, not media diversity.
+
+- **EC7 (Peripheral diversity mention):** Diversity is central to the discussion but in the context of religious education, not media.
+
+- **EC8 (Superficial diversity reference):** The diversity reference is not superficial, but it is not related to media diversity.
+
+Overall, the abstract does not meet the inclusion criteria for a systematic literature review on media diversity in political communication, as it focuses on religious education rather than media content or diversity analysis in media.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:41:49.921418
+41,{The Expediency of Hybridity: Beijing 2008},"In this article, we examine the Opening Ceremonies of the Beijing Olympiad as an opportunity for the Chinese government to ""speak"" using a highly expedient discourse of hybridity (Pieterse, 2004). Moreover, we ask how Beijing 2008 may be representative of a larger trend whereby Olympic events serve to chill free speech. We suggest that it is important to see how the apolitical discourse adopted by the International Olympic Committee and its corporate partners can serve to minimize conflicts for the sake of entertainment value. Building on previous work engaging the Chinese television show Super Girl (Peaslee, Berggreen, {\&} Kwak, 2010), in which the authors suggested that the show's disruption of gender conservatism (hybridity) was ""expedient,"" we apply the same theoretical construct to the 2008 Opening Ceremonies, where overt political control and abnegation of personal and press freedoms are obscured by a celebration of Sino-Olympic diversity. Using discourse and textual analysis, we examine the discursive context within China prior to the Games, the artistic program, and the cultural-linguistic packaging of that program by the American broadcaster NBC. We suggest that engaging these texts in close proximity allows the clearest view of the problematic relationship between states, artists, and corporations that background any Olympiad. {\textcopyright} 2012 Copyright Mass Communication {\&} Society Division of the Association for Education in Journalism and Mass Communication.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract does indicate a theoretical framework by applying the concept of ""hybridity"" to the analysis of the Beijing 2008 Opening Ceremonies. However, this is not directly related to media diversity in political communication.
+
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis in the context of political communication. It discusses the Opening Ceremonies of the Beijing Olympics and the discourse surrounding it, which does not align with the focus on news media or non-fictional TV shows.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions ""Sino-Olympic diversity,"" but this is not in the context of media diversity analysis. The focus is on the political and cultural discourse of the Olympics rather than diversity in media content or markets.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate non-peer-reviewed content, but this is irrelevant as other exclusion criteria are met.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or market analysis relevant to political communication. The focus is on the Olympics and its discourse, not on media content or market.
+
+- **EC3 (Media as context only):** The abstract uses media (NBC's broadcasting) as a context to discuss the Olympics, not as a central focus of analysis.
+
+- **EC4 (Fictional media content):** Not applicable, as the content is non-fictional.
+
+- **EC5 (No diversity focus):** The abstract does not focus on diversity in media; it discusses diversity in the context of the Olympics, which is not relevant to the review's focus.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is not related to media diversity but rather to cultural and political aspects of the Olympics.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is peripheral and not central to the analysis of media diversity.
+
+- **EC8 (Superficial diversity reference):** The reference to diversity is superficial and not analyzed in the context of media diversity.
+
+Overall, the abstract does not meet the inclusion criteria for a systematic literature review on media diversity in political communication, as it focuses on the Olympics and its discourse rather than media content or diversity analysis.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:04.834743
+42,{Advertising and MEDIA in Asia: Setting some context},"From the point of view of the critical study of the advertising
+industry, Asia has never been more interesting. Until the 1980s and
+1990s respectively, Western-based advertising agencies were very much
+excluded from the largest markets, China and India. Now these countries
+are both undergoing rapid economic growth, and seeing the emergence of
+new categories of consumers - not only the much-vaunted `middle class'.
+Yet, for all the exceptional rates of growth in advertising expenditure
+being recorded, and the breathless rhetoric of the trade press, the
+impact the global advertisers and their agencies have upon Asia needs to
+be put into perspective. For instance, although the use of the internet
+and other new media is rapidly gaining ground, television still
+dominates, because that is the medium favoured by the biggest-spending
+advertisers in these countries. Ultimately, Asia is defined more by its
+geographical unity than anything else, for in most relevant aspects its
+diversity is arguably greater than that of any other world region, and
+this is reflected in the collection of articles presented here.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** The abstract does not indicate that it is based on empirical research or theoretical framework development. It appears to be more of a contextual discussion or overview rather than a research study.
+
+- **IC2 (Media content or market analysis):** While the abstract discusses media in the context of advertising in Asia, it does not focus on media content or market analysis in a way that aligns with the criteria. The focus is more on the advertising industry and its growth rather than a detailed analysis of media content or markets.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions diversity in a geographical context, stating that Asia's diversity is greater than other regions. However, this does not align with the required focus on media diversity analysis, such as filter bubbles, echo chambers, or newsroom diversity.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The focus is on the advertising industry rather than media content or market analysis.
+
+- **EC3 (Media as context only):** Media is mentioned as a context for advertising, not as the central focus of analysis.
+
+- **EC5 (No diversity focus):** The mention of diversity is in a geographical context, not related to media diversity.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not central to the analysis but rather a peripheral observation about the region.
+
+Overall, the abstract does not align with the systematic review's focus on media diversity in political communication, and therefore, it should be excluded.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:15.742324
+43,{Conceptualizing and Advancing Research Networking Systems},"Science in general, and biomedical research in particular, is becoming
+more collaborative. As a result, collaboration with the right
+individuals, teams, and institutions is increasingly crucial for
+scientific progress. We propose Research Networking Systems (RNS) as a
+new type of system designed to help scientists identify and choose
+collaborators, and suggest a corresponding research agenda. The research
+agenda covers four areas: foundations, presentation, architecture, and
+evaluation. Foundations includes project-, institution- and
+discipline-specific motivational factors; the role of social networks;
+and impression formation based on information beyond expertise and
+interests. Presentation addresses representing expertise in a
+comprehensive and up-to-date manner; the role of controlled vocabularies
+and folksonomies; the tension between seekers' need for comprehensive
+information and potential collaborators' desire to control how they are
+seen by others; and the need to support serendipitous discovery of
+collaborative opportunities. Architecture considers aggregation and
+synthesis of information from multiple sources, social system
+interoperability, and integration with the user's primary work context.
+Lastly, evaluation focuses on assessment of collaboration decisions,
+measurement of user-specific costs and benefits, and how the large-scale
+impact of RNS could be evaluated with longitudinal and naturalistic
+methods. We hope that this article stimulates the human-computer
+interaction, computer-supported cooperative work, and related
+communities to pursue a broad and comprehensive agenda for developing
+research networking systems.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract titled ""Conceptualizing and Advancing Research Networking Systems"" does not meet the inclusion criteria for the systematic literature review on media diversity in political communication. Here's the evaluation based on the provided criteria:
+
+- **IC1 (Empirical or theoretical research):** The abstract does propose a theoretical framework for Research Networking Systems, which could meet IC1. However, this framework is not related to media diversity or political communication.
+
+- **IC2 (Media content or market analysis):** The abstract does not focus on media content or market analysis. It discusses research networking systems, which are unrelated to media content or markets.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The abstract focuses on collaboration in scientific research, not on media diversity.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not specify if it is peer-reviewed, but this is not the primary reason for exclusion.
+
+- **EC2 (No media content/market focus):** The abstract does not focus on media content or markets, which is a critical exclusion criterion.
+
+- **EC3 (Media as context only):** Media is not even used as a context in this abstract.
+
+- **EC4 (Fictional media content):** Not applicable, as the abstract does not discuss media content.
+
+- **EC5 (No diversity focus):** There is no focus on diversity in the context of media.
+
+- **EC6 (Non-media diversity focus):** The abstract does not address diversity in any form related to media.
+
+- **EC7 (Peripheral diversity mention):** There is no mention of diversity, peripheral or otherwise, in the context of media.
+
+- **EC8 (Superficial diversity reference):** There is no reference to diversity in the abstract.
+
+Overall, the abstract is entirely outside the scope of the systematic literature review on media diversity in political communication, as it does not address any aspect of media content, market analysis, or diversity within media. Therefore, it is rated as ""1 - Not Relevant.""",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:24.964432
+44,{Using technology to support equity and inclusion in youth library programming: Current practices and future opportunities},"This article extends prior work investigating public youth librarians' efforts to incorporate digital media technologies into youth programming. We conducted interviews and focus groups with 92 youth-serving library staff working in public libraries across the United States. Using connected learning as a theoretical framework, our analysis revealed various ways that technology is used in youth-focused library programming, providing youth with opportunities to collaborate with peers and adults, to pursue their interests, and to exercise creativity through production-centered activities. Our analysis also revealed specific challenges facing public youth librarians in their efforts to leverage digital and networked technologies to create equitable, inclusive learning environments. This article contributes new empirical evidence demonstrating the specific roles that librarians can play in creating rich, technology-enabled environments for diverse youth patrons and the resources and supports librarians need to succeed in their efforts. {\textcopyright} 2018 by The University of Chicago. All rights reserved.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication:
+
+- **IC1 (Empirical or theoretical research):** While the abstract indicates empirical research through interviews and focus groups, it does not focus on media diversity in political communication.
+  
+- **IC2 (Media content or market analysis):** The abstract discusses the use of digital media technologies in youth library programming, which does not align with the focus on media content or market analysis related to political communication.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions creating equitable and inclusive learning environments, but this is in the context of library programming, not media diversity. There is no mention of key terms related to media diversity such as filter bubbles, echo chambers, or newsroom diversity.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The focus is on library programming and technology use, not on media content or market analysis.
+  
+- **EC3 (Media as context only):** Media is used as a tool in library programming, not as the central focus of analysis.
+  
+- **EC5 (No diversity focus):** While there is a mention of equity and inclusion, it is not in the context of media diversity analysis.
+
+Overall, the abstract is not relevant to the systematic literature review's focus on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:32.053310
+45,{The Autobiography of Intercultural Encounters through Visual MEDIA: exploring images of others in telecollaboration},"Positioned against the background of the Council of Europe's interest in developing intercultural competence through education, the study presented in this paper investigates the impact on intercultural visual literacy of the Council of Europe's Images of Others – An Autobiography of Intercultural Encounters through Visual Media (AIEVM). In our study, the AIEVM was used within the context of an online intercultural exchange between pre-service language teachers. Findings indicate increased intercultural awareness as students at universities in Germany and Spain engaged with the visually ‘mediated other' through working systematically with the AIEVM. Multiperspectivity and critical cultural awareness in particular were shown to be enhanced through discussing ‘images of others' in culturally diverse tandem teams. {\textcopyright} 2014, Taylor {\&} Francis.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the following reasons:
+
+- **IC1 (Empirical or theoretical research):** While the study appears to be empirical, it does not focus on media diversity in political communication. The research is centered on intercultural competence and visual literacy, not on media diversity or political communication.
+
+- **IC2 (Media content or market analysis):** The abstract does not indicate an analysis of media content or markets. It discusses the use of visual media in an educational context, which does not align with the focus on media content or market analysis relevant to political communication.
+
+- **IC3 (Diversity analysis in media):** The abstract does not focus on diversity analysis in media. It mentions intercultural awareness and multiperspectivity, but these are in the context of educational outcomes rather than media diversity. There is no mention of key terms related to media diversity such as filter bubbles, echo chambers, or newsroom diversity.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The study uses media as a tool for education rather than focusing on media content or market analysis.
+
+- **EC3 (Media as context only):** Media is used as a context for intercultural exchange rather than being the central focus of analysis.
+
+- **EC5 (No diversity focus):** While intercultural awareness is discussed, it is not in the context of media diversity. The focus is on educational outcomes rather than diversity within media content or markets.
+
+Overall, the abstract is not relevant to the systematic literature review on media diversity in political communication, as it does not align with the inclusion criteria and meets several exclusion criteria.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:40.897252
+46,{Facilitating social and natural science cross-disciplinarity: Assessing the human and social dynamics program},"Research that integrates the social and natural sciences is vital to
+address many societal challenges, yet is difficult to arrange, conduct,
+and disseminate. This article analyses the cross-disciplinary character
+of the research supported by a unique US National Science Foundation
+program on Human and Social Dynamics (HSD). It presents evidence that
+research publications deriving from this support chiefly pertain to the
+Social and Behavioral Sciences, but extend widely into the Bio and
+Medical Sciences, Environmental Sciences, and Physical Sciences and
+Engineering. Integration scores, based on the diversity of references
+cited, indicate that the HSD-derived publications are notably more
+interdisciplinary than those of comparable programs. Diffusion scores,
+together with science overlay maps, show that uptake of the HSD
+publications extends into the natural, as well as social, sciences.
+Research networking analyses, together with a new composite mapping
+approach, point toward successful catalysis of a new research community.
+The measures and maps of cross-disciplinary research activity that are
+advanced here may prove useful in other research assessments.",False,False,0,0,1,1,0,0,"**Relevance Score:** 1
+
+**Reasoning:** 
+
+The abstract does not meet the inclusion criteria for the systematic literature review on media diversity in political communication:
+
+- **IC1 (Empirical or theoretical research):** While the abstract discusses empirical research, it is focused on cross-disciplinary research in the sciences rather than media or political communication.
+
+- **IC2 (Media content or market analysis):** The abstract does not involve any analysis of media content or media markets. It is centered on research integration across various scientific disciplines.
+
+- **IC3 (Diversity analysis in media):** There is no mention of diversity analysis in media. The diversity discussed pertains to the diversity of references cited in scientific research, not media diversity.
+
+The abstract also meets several exclusion criteria:
+
+- **EC2 (No media content/market focus):** The focus is on scientific research integration, not media content or markets.
+
+- **EC3 (Media as context only):** Media is not even mentioned as a context; the focus is entirely on scientific disciplines.
+
+- **EC5 (No diversity focus):** The diversity mentioned is related to interdisciplinary research, not media diversity.
+
+- **EC6 (Non-media diversity focus):** The diversity discussed is about references in scientific research, not related to media.
+
+Overall, the abstract is completely outside the scope of the review, which is focused on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:42:48.624641
+47,{JOURNALIStic field wars: Defending and attacking the national narrative in a DIVERSifying JOURNALIStic field},"Whereas others have noticed a strengthening of journalistic-state
+relations due to pressures caused by new media, this analysis reveals an
+ideological strengthening of the state-journalistic partnership. This
+article uses a deep reading of journalistic coverage of the
+WikiLeaks-released cables to examine the influence of field position
+upon newswork and narratives from diverse sources. Despite the hope that
+new technologies will enable new journalistic forms, establishment
+journalism continues its allegiance to traditional practices that are a
+consequence and cause of the national narrative. Because of competition
+within the journalistic field made possible by changing political
+economies, one reaction of dominant news organizations is to become more
+committed to the national narrative to maintain their position of
+strength within the field.",False,False,0,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests an empirical analysis through a ""deep reading of journalistic coverage,"" which indicates empirical research. This criterion is met.
+
+- **IC2 (Media content or market analysis):** The abstract focuses on journalistic coverage and the influence of field position on newswork and narratives, which aligns with media content analysis. This criterion is met.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions ""narratives from diverse sources,"" which suggests some level of diversity analysis. However, it is not clear if the focus is on diversity in terms of media content or market diversity as required by the criteria. The mention of ""diverse sources"" is somewhat vague and does not strongly indicate a primary focus on diversity analysis. This criterion is partially met.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed. This criterion is not applicable.
+
+- **EC2 (No media content/market focus):** The abstract clearly focuses on media content, so this exclusion criterion is not applicable.
+
+- **EC3 (Media as context only):** Media is central to the analysis, so this exclusion criterion is not applicable.
+
+- **EC4 (Fictional media content):** The focus is on journalistic coverage, not fictional content. This criterion is not applicable.
+
+- **EC5 (No diversity focus):** While there is a mention of ""diverse sources,"" the primary focus on diversity is not strongly evident. This criterion is partially applicable.
+
+- **EC6 (Non-media diversity focus):** The abstract does not focus on non-media diversity, so this criterion is not applicable.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not clearly peripheral, but it is not strongly central either. This criterion is partially applicable.
+
+- **EC8 (Superficial diversity reference):** The reference to diversity is somewhat superficial as it lacks depth in analysis. This criterion is partially applicable.
+
+Overall, the abstract shows some relevance to the review's focus but lacks a clear and strong emphasis on diversity analysis in media, which is crucial for a higher relevance score. More information on how diversity is analyzed would be needed for a definitive decision.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:43:00.791228
+48,"{Bravas, permitidas, obsoletas: Mapuche women in the Chilean print MEDIA}","The author explores how dichotomous representations of women and Indians came into play in Chilean print media representations of Mapuche women from 1997 to 2003, at the height of conflicts between the Mapuche people, the state, and elites in southern Chile. The author finds there were three competing representations of Mapuche women, which reproduce assumptions not just about them but about the people as a whole. Together, they accentuate, and simultaneously complicate, dichotomous views of Indians and women. These media portrayals are significant because they reflect and reinforce the central principles of neoliberal multiculturalismthe prevailing form of governance in contemporary Latin Americawhich promotes diversity while perpetuating the marginalization of indigenous peoples and many of their rights. This analysis of images in print media contributes to understandings of how race and gender ideologies continue to inform debates over national belonging in contemporary Latin America.",False,False,0,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests an empirical analysis of media representations, which aligns with IC1. The study examines representations in print media, indicating empirical research.
+
+- **IC2 (Media content or market analysis):** The focus is on Chilean print media, which fits the criteria for media content analysis. This aligns with IC2 as it involves analysis of news media.
+
+- **IC3 (Diversity analysis in media):** The abstract discusses representations of Mapuche women and how these portrayals reflect and reinforce principles of neoliberal multiculturalism. While it touches on diversity themes, it does not explicitly mention key terms like filter bubbles, echo chambers, or media market diversity. The focus is more on race and gender ideologies rather than media diversity per se, which makes the alignment with IC3 partial.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed, so this criterion does not apply.
+
+- **EC2 (No media content/market focus):** The abstract clearly focuses on media content, so this exclusion criterion does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, not just a context, so this criterion does not apply.
+
+- **EC4 (Fictional media content):** The study focuses on print media, not fictional content, so this criterion does not apply.
+
+- **EC5 (No diversity focus):** While the study discusses diversity in terms of race and gender, it does not focus on media diversity specifically, which partially aligns with this exclusion criterion.
+
+- **EC6 (Non-media diversity focus):** The diversity focus is on representations within media, so this criterion does not apply.
+
+- **EC7 (Peripheral diversity mention):** Diversity is a central theme, but it is more about societal diversity rather than media diversity, which makes the alignment with this criterion partial.
+
+- **EC8 (Superficial diversity reference):** The abstract provides a detailed analysis of diversity in media portrayals, so this criterion does not apply.
+
+Overall, the abstract shows some relevance to the review's focus on media diversity in political communication, but the primary focus on race and gender ideologies rather than media diversity makes it only moderately relevant. More information on how the study addresses media diversity specifically would be needed for a higher relevance score.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:43:13.440706
+49,{The democratic deficit and European Union communication policy: An evaluation of the commission's approach to broadcasting},"The article evaluates European Union broadcasting policy in the context of the democratic deficit. It argues that it is essential to understand the democratic deficit in terms of communicative action, but this entails the question of media policy and specifically broadcasting, as one of the dominant mediums in which citizens participate in public life. In outlining the basic nature of the European Commission's approach to broadcasting, the work employs the concepts of internal and external pluralism heuristically. Applying these two categories to the Commission's decisions on State aid and competition policy, in order to assess how European Union media policy hangs together to form a comprehensive approach to media regulation. It challenges what has become the orthodoxy in reviews of European audio-visual policy and argues that the Commission has adopted a mature sense of the importance of broadcasting in the democratic process. At the same time however, the idea that the democratic deficit can be fruitfully approached through broadcasting initiatives is undermined due to the restricted access the Commis-sion has to the broadcasting sector in the regulatory sphere, where the Member States retain power.",False,False,0,0,3,3,1,0,"**Relevance Score:** 3
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract suggests a theoretical evaluation of the European Union's broadcasting policy, which aligns with IC1 as it involves theoretical framework development.
+
+- **IC2 (Media content or market analysis):** The abstract discusses broadcasting policy and media regulation, which implies a focus on media content and market analysis. This meets IC2.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions the use of ""internal and external pluralism"" in evaluating the Commission's approach. While pluralism is a key term related to diversity, the abstract does not explicitly state that diversity analysis is a primary focus. This creates some ambiguity regarding IC3.
+
+- **EC1 (Non-peer-reviewed content):** There is no indication that the content is non-peer-reviewed, so EC1 does not apply.
+
+- **EC2 (No media content/market focus):** The abstract does focus on media content and market, so EC2 does not apply.
+
+- **EC3 (Media as context only):** Media is central to the analysis, so EC3 does not apply.
+
+- **EC4 (Fictional media content):** The focus is on broadcasting policy, not fictional content, so EC4 does not apply.
+
+- **EC5 (No diversity focus):** While pluralism is mentioned, the abstract does not clearly indicate that diversity is a primary focus, which partially aligns with EC5.
+
+- **EC6 (Non-media diversity focus):** The focus is on media diversity (pluralism), so EC6 does not apply.
+
+- **EC7 (Peripheral diversity mention):** The mention of pluralism is not clearly peripheral, but the lack of explicit focus on diversity analysis makes this criterion somewhat applicable.
+
+- **EC8 (Superficial diversity reference):** The reference to pluralism is not clearly superficial, but the lack of detailed analysis in the abstract makes this criterion somewhat applicable.
+
+Overall, the abstract shows some relevance to the review's focus, particularly in terms of media policy and pluralism, but lacks a clear emphasis on diversity analysis as a primary focus. More information on how diversity is analyzed would be needed for a higher relevance score.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:43:24.547136
+50,"{What SOCIAL MEDIA data should i use in my research?: A comparative analysis of TWITTER, youtube, REDDIT, and the new york times comments}","The emergence of popular social media allows people to generate and share information in unprecedented and multiple ways. While studies concerning social media data are plentiful and can be found across a variety of scholarly disciplines, there has been little research done that compares multiple social media while considering topics and goals of an investigation. We collected and analyzed comparable data from four different social media sources: Twitter, YouTube, Reddit, and the New York Times website, across five research topics. We then analyzed these data sets across several criteria, such as richness and the diversity of information that they contain. Our analysis shows the trade-offs between different social media services and also provides a new framework to compare cross-platform data collection and analysis utility. Copyright 2016 Dongho Choi, Ziad Matni, Chirag Shah, Rutgers University",True,False,1,0,2,2,0,0,"**Relevance Score:** 2
+
+**Reasoning:** 
+
+- **IC1 (Empirical or theoretical research):** The abstract indicates empirical research as it involves the collection and analysis of data from social media platforms. This criterion is met.
+
+- **IC2 (Media content or market analysis):** The study involves social media platforms, which can be considered as media content. However, the focus is on comparing data utility across platforms rather than analyzing the content or market itself. This criterion is partially met.
+
+- **IC3 (Diversity analysis in media):** The abstract mentions analyzing the ""diversity of information"" in the data sets. However, it does not specify if this diversity pertains to media diversity concepts like filter bubbles, echo chambers, or newsroom diversity. The mention of diversity is vague and does not clearly align with the specific diversity analysis required. This criterion is not fully met.
+
+- **EC1 (Non-peer-reviewed content):** The abstract does not indicate that it is non-peer-reviewed content. This criterion is not applicable.
+
+- **EC2 (No media content/market focus):** The study does focus on media content (social media data), so this exclusion criterion is not applicable.
+
+- **EC3 (Media as context only):** The media is central to the analysis, so this criterion is not applicable.
+
+- **EC4 (Fictional media content):** The study does not involve fictional media content, so this criterion is not applicable.
+
+- **EC5 (No diversity focus):** The abstract mentions diversity but does not focus on media diversity as defined by the inclusion criteria. This criterion is applicable.
+
+- **EC6 (Non-media diversity focus):** The diversity mentioned is related to the information in social media data, but it is not clear if it pertains to media diversity. This criterion is partially applicable.
+
+- **EC7 (Peripheral diversity mention):** The mention of diversity is not the primary focus of the study, which is more about data utility across platforms. This criterion is applicable.
+
+- **EC8 (Superficial diversity reference):** The reference to diversity is superficial as it lacks depth in terms of media diversity analysis. This criterion is applicable.
+
+Overall, while the study involves empirical research and media content, the focus on diversity is not aligned with the specific media diversity analysis required by the inclusion criteria. The mention of diversity is vague and does not clearly pertain to the key terms or concepts outlined. Therefore, the abstract is minimally relevant to the systematic literature review on media diversity in political communication.",007,LB,SYS_001,USR_005,gpt-4o,0.0,2025-08-14T10:43:42.517978
